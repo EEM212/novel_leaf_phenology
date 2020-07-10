@@ -1,0 +1,912 @@
+Site_ID,Individual_ID,Latitude,Longitude,Common_Name,First_Yes_Year,First_Yes_DOY,SPP,Nativity,w.precip,AGDD,chill.days
+12003,50311,35.664433,-83.59095,flowering dogwood,2015,98,flowering dogwood,native,290.09,860.1,49
+1327,1976,42.546036,-71.3545,flowering dogwood,2015,131,flowering dogwood,native,351.84,204.1,23
+1461,2446,42.283501,-83.771729,flowering dogwood,2015,118,flowering dogwood,native,121.51,235,17
+1579,2881,38.25724,-85.633087,flowering dogwood,2015,100,flowering dogwood,native,197.2,680.5,46
+16212,59872,44.258659,-71.252998,hobblebush,2015,127,hobblebush,native,441.13,57.8,9
+16213,59875,44.26144,-71.252998,hobblebush,2015,127,hobblebush,native,441.13,57.8,9
+16214,69836,44.262901,-71.252998,hobblebush,2015,132,hobblebush,native,441.13,57.8,9
+16239,59954,44.25832,-71.253502,hobblebush,2015,127,hobblebush,native,441.13,57.8,9
+16240,59957,44.25872,-71.2537,hobblebush,2015,127,hobblebush,native,441.13,57.8,9
+16241,59961,44.261089,-71.253601,hobblebush,2015,127,hobblebush,native,441.13,57.8,9
+16257,69435,41.211025,-73.826889,northern spicebush,2015,126,northern spicebush,native,268.84,263.2,28
+16257,59864,41.211025,-73.826889,northern spicebush,2015,119,northern spicebush,native,268.84,263.2,28
+16257,71300,41.211025,-73.826889,northern spicebush,2015,126,northern spicebush,native,268.84,263.2,28
+1668,38566,40.866283,-73.875717,northern spicebush,2015,78,northern spicebush,native,349.47,332.4,44
+1668,38597,40.866283,-73.875717,northern spicebush,2015,113,northern spicebush,native,349.47,332.4,44
+1668,38603,40.866283,-73.875717,northern spicebush,2015,109,northern spicebush,native,349.47,332.4,44
+1668,66520,40.866283,-73.875717,flowering dogwood,2015,113,flowering dogwood,native,349.47,332.4,44
+16876,64198,41.745537,-74.119392,flowering dogwood,2015,124,flowering dogwood,native,246.05,213.1,19
+16876,64197,41.745537,-74.119392,flowering dogwood,2015,125,flowering dogwood,native,246.05,213.1,19
+17377,66718,40.204216,-80.55307,flowering dogwood,2015,113,flowering dogwood,native,167.9,377.3,29
+17377,66717,40.204216,-80.55307,flowering dogwood,2015,113,flowering dogwood,native,167.9,377.3,29
+17562,67566,41.78577,-73.731003,northern spicebush,2015,126,northern spicebush,native,255.62,207.6,20
+17562,67567,41.78577,-73.731003,northern spicebush,2015,126,northern spicebush,native,255.62,207.6,20
+17583,84896,40.892975,-74.007751,flowering dogwood,2015,118,flowering dogwood,native,315.41,329.8,41
+17753,69713,44.168583,-71.38765,hobblebush,2015,125,hobblebush,native,377.65,65.7,9
+17755,69711,44.171101,-71.386131,hobblebush,2015,125,hobblebush,native,377.65,65.7,9
+17756,69712,44.171883,-71.385483,hobblebush,2015,125,hobblebush,native,377.65,65.7,9
+17757,69856,44.172134,-71.384315,hobblebush,2015,125,hobblebush,native,377.65,65.7,9
+17758,69850,44.256454,-71.247581,hobblebush,2015,127,hobblebush,native,441.13,57.8,9
+18536,73392,40.866119,-73.879341,flowering dogwood,2015,119,flowering dogwood,native,349.47,332.4,44
+18537,73402,40.86404,-73.878288,flowering dogwood,2015,120,flowering dogwood,native,349.47,332.4,44
+18537,73420,40.86404,-73.878288,flowering dogwood,2015,120,flowering dogwood,native,349.47,332.4,44
+19211,76905,35.353306,-83.195366,flowering dogwood,2015,99,flowering dogwood,native,256.43,1023.1,58
+19211,76906,35.353306,-83.195366,flowering dogwood,2015,99,flowering dogwood,native,256.43,1023.1,58
+19211,76907,35.353306,-83.195366,flowering dogwood,2015,99,flowering dogwood,native,256.43,1023.1,58
+19211,85182,35.353306,-83.195366,flowering dogwood,2015,92,flowering dogwood,native,256.43,1023.1,58
+19214,84523,35.534603,-82.976784,flowering dogwood,2015,101,flowering dogwood,native,220.3,921.8,51
+19651,89420,41.290401,-70.170708,southern arrowwood,2015,132,southern arrowwood,native,373.53,269.2,46
+19651,89422,41.290401,-70.170708,southern arrowwood,2015,139,southern arrowwood,native,373.53,269.2,46
+19651,89425,41.290401,-70.170708,southern arrowwood,2015,134,southern arrowwood,native,373.53,269.2,46
+20682,88061,42.104259,-87.903984,flowering dogwood,2015,101,flowering dogwood,native,99.93,273.1,21
+20708,88128,43.634892,-72.542091,hobblebush,2015,126,hobblebush,native,236.46,108.9,14
+20905,89470,41.290005,-70.17202,southern arrowwood,2015,134,southern arrowwood,native,373.53,269.2,46
+20905,89471,41.290005,-70.17202,southern arrowwood,2015,134,southern arrowwood,native,373.53,269.2,46
+20905,89472,41.290005,-70.17202,southern arrowwood,2015,134,southern arrowwood,native,373.53,269.2,46
+20940,90081,44.001488,-70.057465,flowering dogwood,2015,146,flowering dogwood,native,309.25,136.9,19
+2119,38567,40.862221,-73.875191,northern spicebush,2015,117,northern spicebush,native,349.47,332.4,44
+2119,38570,40.862221,-73.875191,northern spicebush,2015,117,northern spicebush,native,349.47,332.4,44
+2119,66509,40.862221,-73.875191,flowering dogwood,2015,117,flowering dogwood,native,349.47,332.4,44
+2120,66513,40.863445,-73.876656,flowering dogwood,2015,112,flowering dogwood,native,349.47,332.4,44
+2222,41100,42.545998,-71.355217,flowering dogwood,2015,131,flowering dogwood,native,351.84,204.1,23
+3,33795,35.879211,-84.172203,flowering dogwood,2015,97,flowering dogwood,native,368.9,921.6,57
+3,1694,35.879211,-84.172203,flowering dogwood,2015,93,flowering dogwood,native,368.9,921.6,57
+5208,10221,36.90799,-76.196022,flowering dogwood,2015,100,flowering dogwood,native,273.78,861.2,57
+6242,16532,43.348259,-70.546036,hobblebush,2015,125,hobblebush,native,384.27,141.4,22
+6242,28521,43.348259,-70.546036,hobblebush,2015,125,hobblebush,native,384.27,141.4,22
+6242,28523,43.348259,-70.546036,hobblebush,2015,125,hobblebush,native,384.27,141.4,22
+6579,20068,43.078892,-85.627914,flowering dogwood,2015,124,flowering dogwood,native,120.88,205.1,18
+6701,66578,36.03521,-83.950249,flowering dogwood,2015,103,flowering dogwood,native,319.97,871.4,56
+8492,37174,35.890881,-82.821213,flowering dogwood,2015,98,flowering dogwood,native,196.19,949.4,53
+8492,37175,35.890881,-82.821213,flowering dogwood,2015,98,flowering dogwood,native,196.19,949.4,53
+9175,69848,44.255665,-71.250465,hobblebush,2015,127,hobblebush,native,441.13,57.8,9
+965,66480,36.109207,-79.220932,flowering dogwood,2015,100,flowering dogwood,native,235.54,992,68
+965,66481,36.109207,-79.220932,flowering dogwood,2015,100,flowering dogwood,native,235.54,992,68
+11617,102806,45.194656,-93.374901,bush honeysuckle,2016,75,Morrow's honeysuckle,exotic,71.52,357.9,20
+11782,65713,35.708954,-82.61364,flowering dogwood,2016,106,flowering dogwood,native,341.14,1059.8,46
+12003,50311,35.664433,-83.59095,flowering dogwood,2016,100,flowering dogwood,native,472.23,1008.1,40
+1327,1976,42.546036,-71.3545,flowering dogwood,2016,133,flowering dogwood,native,277.35,628.9,43
+1461,2446,42.283501,-83.771729,flowering dogwood,2016,116,flowering dogwood,native,146.45,526,42
+1579,2881,38.25724,-85.633087,flowering dogwood,2016,92,flowering dogwood,native,334.92,955.6,43
+16208,59811,44.221031,-71.417603,hobblebush,2016,133,hobblebush,native,408.99,210.1,28
+16209,59815,44.222012,-71.418297,hobblebush,2016,133,hobblebush,native,408.99,210.1,28
+16211,59869,44.221432,-71.4151,hobblebush,2016,133,hobblebush,native,408.99,210.1,28
+16212,59872,44.258659,-71.252998,hobblebush,2016,132,hobblebush,native,443.13,242.6,25
+16213,59875,44.26144,-71.252998,hobblebush,2016,130,hobblebush,native,443.13,242.6,25
+16214,69836,44.262901,-71.252998,hobblebush,2016,124,hobblebush,native,443.13,242.6,25
+16235,59940,44.256149,-71.251701,hobblebush,2016,137,hobblebush,native,443.13,242.6,25
+16237,59948,44.255249,-71.251503,hobblebush,2016,137,hobblebush,native,443.13,242.6,25
+16238,59951,44.2523,-71.251701,hobblebush,2016,137,hobblebush,native,443.13,242.6,25
+16239,59954,44.25832,-71.253502,hobblebush,2016,119,hobblebush,native,443.13,242.6,25
+16240,59957,44.25872,-71.2537,hobblebush,2016,124,hobblebush,native,443.13,242.6,25
+16241,59961,44.261089,-71.253601,hobblebush,2016,132,hobblebush,native,443.13,242.6,25
+16257,69435,41.211025,-73.826889,northern spicebush,2016,116,northern spicebush,native,294.33,759.8,49
+16257,59864,41.211025,-73.826889,northern spicebush,2016,109,northern spicebush,native,294.33,759.8,49
+16257,71300,41.211025,-73.826889,northern spicebush,2016,116,northern spicebush,native,294.33,759.8,49
+16454,62065,41.667408,-73.895546,northern spicebush,2016,109,northern spicebush,native,248.47,727.6,44
+16454,62081,41.667408,-73.895546,northern spicebush,2016,114,northern spicebush,native,248.47,727.6,44
+16454,62071,41.667408,-73.895546,flowering dogwood,2016,114,flowering dogwood,native,248.47,727.6,44
+16454,62064,41.667408,-73.895546,northern spicebush,2016,114,northern spicebush,native,248.47,727.6,44
+16454,62080,41.667408,-73.895546,northern spicebush,2016,109,northern spicebush,native,248.47,727.6,44
+16454,62070,41.667408,-73.895546,flowering dogwood,2016,114,flowering dogwood,native,248.47,727.6,44
+16454,62067,41.667408,-73.895546,flowering dogwood,2016,114,flowering dogwood,native,248.47,727.6,44
+1668,102066,40.866283,-73.875717,mapleleaf viburnum,2016,105,mapleleaf viburnum,native,348.78,782,54
+1668,38597,40.866283,-73.875717,northern spicebush,2016,105,northern spicebush,native,348.78,782,54
+1668,102067,40.866283,-73.875717,blackhaw,2016,84,blackhaw,native,348.78,782,54
+1668,102068,40.866283,-73.875717,southern arrowwood,2016,98,southern arrowwood,native,348.78,782,54
+1668,102069,40.866283,-73.875717,southern arrowwood,2016,105,southern arrowwood,native,348.78,782,54
+1668,38603,40.866283,-73.875717,northern spicebush,2016,91,northern spicebush,native,348.78,782,54
+1668,38566,40.866283,-73.875717,northern spicebush,2016,91,northern spicebush,native,348.78,782,54
+1668,66520,40.866283,-73.875717,flowering dogwood,2016,112,flowering dogwood,native,348.78,782,54
+1668,102065,40.866283,-73.875717,mapleleaf viburnum,2016,105,mapleleaf viburnum,native,348.78,782,54
+16699,103726,44.652939,-93.631256,bush honeysuckle,2016,89,Tatarian honeysuckle,exotic,97.14,350.1,19
+16876,64197,41.745537,-74.119392,flowering dogwood,2016,112,flowering dogwood,native,290.07,705.1,44
+16876,64198,41.745537,-74.119392,flowering dogwood,2016,118,flowering dogwood,native,290.07,705.1,44
+17061,100684,35.074306,-92.462051,privet,2016,76,Chinese privet,exotic,296.92,1325.7,59
+17311,102071,40.859993,-73.877342,mapleleaf viburnum,2016,106,mapleleaf viburnum,native,348.78,782,54
+17377,66718,40.204216,-80.55307,flowering dogwood,2016,97,flowering dogwood,native,203.36,729.1,43
+17377,66717,40.204216,-80.55307,flowering dogwood,2016,97,flowering dogwood,native,203.36,729.1,43
+17414,103213,42.936153,-73.433449,gray dogwood,2016,111,gray dogwood,native,247.21,500.7,39
+17414,103214,42.936153,-73.433449,alternateleaf dogwood,2016,111,alternateleaf dogwood,native,247.21,500.7,39
+17562,67567,41.78577,-73.731003,northern spicebush,2016,118,northern spicebush,native,270.62,694.5,42
+17562,67566,41.78577,-73.731003,northern spicebush,2016,118,northern spicebush,native,270.62,694.5,42
+17680,103560,44.924969,-92.789955,bush honeysuckle,2016,109,Tatarian honeysuckle,exotic,111.69,347,24
+17731,87474,42.020794,-74.243362,flowering dogwood,2016,117,flowering dogwood,native,350.22,622.7,44
+17753,69713,44.168583,-71.38765,hobblebush,2016,125,hobblebush,native,411.68,266.7,31
+17755,69711,44.171101,-71.386131,hobblebush,2016,123,hobblebush,native,411.68,266.7,31
+17756,69712,44.171883,-71.385483,hobblebush,2016,125,hobblebush,native,411.68,266.7,31
+17757,69856,44.172134,-71.384315,hobblebush,2016,123,hobblebush,native,411.68,266.7,31
+17758,69850,44.256454,-71.247581,hobblebush,2016,132,hobblebush,native,443.13,242.6,25
+17767,69844,44.246014,-71.254158,hobblebush,2016,132,hobblebush,native,443.13,242.6,25
+17769,69847,44.245659,-71.253677,hobblebush,2016,123,hobblebush,native,443.13,242.6,25
+18536,73392,40.866119,-73.879341,flowering dogwood,2016,106,flowering dogwood,native,348.78,782,54
+18919,75511,35.563446,-82.621315,flowering dogwood,2016,97,flowering dogwood,native,426.97,1049.9,50
+19380,77361,35.811588,-78.713982,flowering dogwood,2016,77,flowering dogwood,native,356.03,1236.6,47
+19651,89420,41.290401,-70.170708,southern arrowwood,2016,144,southern arrowwood,native,423.54,643.8,60
+19651,89422,41.290401,-70.170708,southern arrowwood,2016,144,southern arrowwood,native,423.54,643.8,60
+19651,89425,41.290401,-70.170708,southern arrowwood,2016,141,southern arrowwood,native,423.54,643.8,60
+20249,105376,38.613323,-90.258934,flowering dogwood,2016,95,flowering dogwood,native,323.67,920.2,56
+20739,107393,44.681931,-70.145699,Amur honeysuckle,2016,113,Amur honeysuckle,exotic,359.59,305.5,27
+20739,104190,44.681931,-70.145699,burningbush,2016,131,burningbush,exotic,359.59,305.5,27
+20905,89470,41.290005,-70.17202,southern arrowwood,2016,144,southern arrowwood,native,423.54,643.8,60
+20905,89471,41.290005,-70.17202,southern arrowwood,2016,138,southern arrowwood,native,423.54,643.8,60
+20905,89472,41.290005,-70.17202,southern arrowwood,2016,138,southern arrowwood,native,423.54,643.8,60
+2119,102055,40.862221,-73.875191,southern arrowwood,2016,96,southern arrowwood,native,348.78,782,54
+2119,66509,40.862221,-73.875191,flowering dogwood,2016,108,flowering dogwood,native,348.78,782,54
+2119,38567,40.862221,-73.875191,northern spicebush,2016,96,northern spicebush,native,348.78,782,54
+2119,38570,40.862221,-73.875191,northern spicebush,2016,79,northern spicebush,native,348.78,782,54
+2120,102072,40.863445,-73.876656,blackhaw,2016,85,blackhaw,native,348.78,782,54
+2120,102073,40.863445,-73.876656,blackhaw,2016,84,blackhaw,native,348.78,782,54
+2120,66513,40.863445,-73.876656,flowering dogwood,2016,85,flowering dogwood,native,348.78,782,54
+21639,94792,41.724197,-74.075989,northern spicebush,2016,118,northern spicebush,native,261.94,691.9,43
+21778,95756,35.065922,-83.966927,flowering dogwood,2016,90,flowering dogwood,native,505.05,1166.7,49
+21778,95775,35.065922,-83.966927,flowering dogwood,2016,13,flowering dogwood,native,505.05,1166.7,49
+22017,96829,35.497227,-82.608856,flowering dogwood,2016,104,flowering dogwood,native,504.21,1039.9,49
+22017,96833,35.497227,-82.608856,flowering dogwood,2016,90,flowering dogwood,native,504.21,1039.9,49
+22171,103945,42.034462,-89.324966,bush honeysuckle,2016,85,Morrow's honeysuckle,exotic,177.53,458.3,38
+22171,103950,42.034462,-89.324966,multiflora rose,2016,85,multiflora rose,exotic,177.53,458.3,38
+22171,103946,42.034462,-89.324966,bush honeysuckle,2016,111,Morrow's honeysuckle,exotic,177.53,458.3,38
+22171,103947,42.034462,-89.324966,alternateleaf dogwood,2016,111,alternateleaf dogwood,native,177.53,458.3,38
+2222,103179,42.545998,-71.355217,burningbush,2016,116,burningbush,exotic,277.35,628.9,43
+2222,41100,42.545998,-71.355217,flowering dogwood,2016,140,flowering dogwood,native,277.35,628.9,43
+22576,100713,41.795734,-74.126534,northern spicebush,2016,118,northern spicebush,native,301.15,673.2,44
+22576,100716,41.795734,-74.126534,northern spicebush,2016,113,northern spicebush,native,301.15,673.2,44
+22589,100780,36.615578,-88.321381,flowering dogwood,2016,88,flowering dogwood,native,417.23,991.2,45
+22589,100797,36.615578,-88.321381,flowering dogwood,2016,88,flowering dogwood,native,417.23,991.2,45
+22589,100798,36.615578,-88.321381,flowering dogwood,2016,88,flowering dogwood,native,417.23,991.2,45
+22589,100799,36.615578,-88.321381,flowering dogwood,2016,88,flowering dogwood,native,417.23,991.2,45
+22600,100820,40.429977,-75.78389,northern spicebush,2016,106,northern spicebush,native,333.25,715.7,47
+22600,100821,40.429977,-75.78389,northern spicebush,2016,111,northern spicebush,native,333.25,715.7,47
+22600,100822,40.429977,-75.78389,flowering dogwood,2016,116,flowering dogwood,native,333.25,715.7,47
+22600,100823,40.429977,-75.78389,flowering dogwood,2016,111,flowering dogwood,native,333.25,715.7,47
+22600,103961,40.429977,-75.78389,northern spicebush,2016,111,northern spicebush,native,333.25,715.7,47
+23016,104235,39.247299,-77.340401,flowering dogwood,2016,109,flowering dogwood,native,356.46,812.8,50
+23056,104744,40.37122,-78.78167,alternateleaf dogwood,2016,115,alternateleaf dogwood,native,251.02,573.2,38
+23286,107350,41.689362,-73.89653,northern spicebush,2016,118,northern spicebush,native,247.79,726.5,44
+23286,106899,41.689362,-73.89653,northern spicebush,2016,109,northern spicebush,native,247.79,726.5,44
+23286,106898,41.689362,-73.89653,northern spicebush,2016,109,northern spicebush,native,247.79,726.5,44
+23533,109730,44.25589,-71.250458,hobblebush,2016,137,hobblebush,native,443.13,242.6,25
+2772,103567,36.440838,-84.323586,mapleleaf viburnum,2016,92,mapleleaf viburnum,native,479.09,926.9,39
+459,637,36.524502,-92.751999,flowering dogwood,2016,92,flowering dogwood,native,294.2,1208.5,50
+459,1273,36.524502,-92.751999,flowering dogwood,2016,105,flowering dogwood,native,294.2,1208.5,50
+5206,10210,36.902622,-76.206039,flowering dogwood,2016,92,flowering dogwood,native,385.9,1166.8,44
+5208,10221,36.90799,-76.196022,flowering dogwood,2016,92,flowering dogwood,native,385.9,1166.8,44
+6242,28521,43.348259,-70.546036,hobblebush,2016,116,hobblebush,native,292.1,460.1,44
+6242,28523,43.348259,-70.546036,hobblebush,2016,120,hobblebush,native,292.1,460.1,44
+6242,16532,43.348259,-70.546036,hobblebush,2016,116,hobblebush,native,292.1,460.1,44
+6362,103505,43.012966,-73.649918,multiflora rose,2016,124,multiflora rose,exotic,267.34,533.9,42
+6579,20068,43.078892,-85.627914,flowering dogwood,2016,120,flowering dogwood,native,211.73,428.8,45
+8806,33109,35.640625,-83.689034,flowering dogwood,2016,71,flowering dogwood,native,528.93,1066.5,42
+8806,33120,35.640625,-83.689034,flowering dogwood,2016,85,flowering dogwood,native,528.93,1066.5,42
+8836,29445,35.686604,-83.537605,flowering dogwood,2016,103,flowering dogwood,native,451.06,1024.5,39
+8897,29865,35.688396,-83.501266,flowering dogwood,2016,104,flowering dogwood,native,405.76,1049.1,42
+8897,29866,35.688396,-83.501266,flowering dogwood,2016,104,flowering dogwood,native,405.76,1049.1,42
+8903,29948,35.463467,-83.433441,flowering dogwood,2016,96,flowering dogwood,native,535.37,1043.4,47
+8903,29947,35.463467,-83.433441,flowering dogwood,2016,103,flowering dogwood,native,535.37,1043.4,47
+9175,69848,44.255665,-71.250465,hobblebush,2016,132,hobblebush,native,443.13,242.6,25
+9338,33242,35.642117,-83.692589,flowering dogwood,2016,102,flowering dogwood,native,528.93,1066.5,42
+9341,33187,35.639874,-83.687721,flowering dogwood,2016,96,flowering dogwood,native,528.93,1066.5,42
+CC,4935,40.78305556,-77.89111111,mapleleaf viburnum,2016,113,mapleleaf viburnum,native,241.36,618.1,43
+CC,4947,40.78305556,-77.89111111,burningbush,2016,113,burningbush,exotic,241.36,618.1,43
+CC,4946,40.78305556,-77.89111111,Japanese barberry,2016,82,Japanese barberry,exotic,241.36,618.1,43
+CC,4994,40.78305556,-77.89111111,Japanese barberry,2016,75,Japanese barberry,exotic,241.36,618.1,43
+CC,4936,40.78305556,-77.89111111,mapleleaf viburnum,2016,113,mapleleaf viburnum,native,241.36,618.1,43
+CC,4059,40.78305556,-77.89111111,northern spicebush,2016,113,northern spicebush,native,241.36,618.1,43
+CC,4934,40.78305556,-77.89111111,mapleleaf viburnum,2016,93,mapleleaf viburnum,native,241.36,618.1,43
+CC,4950,40.78305556,-77.89111111,burningbush,2016,113,burningbush,exotic,241.36,618.1,43
+CC,4944,40.78305556,-77.89111111,Amur honeysuckle,2016,93,Amur honeysuckle,exotic,241.36,618.1,43
+CC,4990,40.78305556,-77.89111111,Amur honeysuckle,2016,93,Amur honeysuckle,exotic,241.36,618.1,43
+CC,4991,40.78305556,-77.89111111,Amur honeysuckle,2016,75,Amur honeysuckle,exotic,241.36,618.1,43
+CC,4995,40.78305556,-77.89111111,Japanese barberry,2016,75,Japanese barberry,exotic,241.36,618.1,43
+CC,4942,40.78305556,-77.89111111,Amur honeysuckle,2016,93,Amur honeysuckle,exotic,241.36,618.1,43
+CC,4973,40.78305556,-77.89111111,Amur honeysuckle,2016,93,Amur honeysuckle,exotic,241.36,618.1,43
+CC,4977,40.78305556,-77.89111111,Japanese barberry,2016,82,Japanese barberry,exotic,241.36,618.1,43
+CC,4945,40.78305556,-77.89111111,privet,2016,70,privet,exotic,241.36,618.1,43
+CC,4980,40.78305556,-77.89111111,burningbush,2016,106,burningbush,exotic,241.36,618.1,43
+CC,4291,40.78305556,-77.89111111,northern spicebush,2016,113,northern spicebush,native,241.36,618.1,43
+CC,4983,40.78305556,-77.89111111,mapleleaf viburnum,2016,93,mapleleaf viburnum,native,241.36,618.1,43
+CC,4984,40.78305556,-77.89111111,burningbush,2016,113,burningbush,exotic,241.36,618.1,43
+CC,4986,40.78305556,-77.89111111,blackhaw,2016,93,blackhaw,native,241.36,618.1,43
+CC,4955,40.78305556,-77.89111111,blackhaw,2016,93,blackhaw,native,241.36,618.1,43
+CC,4957,40.78305556,-77.89111111,blackhaw,2016,93,blackhaw,native,241.36,618.1,43
+CC,4982,40.78305556,-77.89111111,mapleleaf viburnum,2016,113,mapleleaf viburnum,native,241.36,618.1,43
+CC,4941,40.78305556,-77.89111111,Japanese barberry,2016,75,Japanese barberry,exotic,241.36,618.1,43
+CC,4978,40.78305556,-77.89111111,mapleleaf viburnum,2016,113,mapleleaf viburnum,native,241.36,618.1,43
+CC,4972,40.78305556,-77.89111111,Japanese barberry,2016,75,Japanese barberry,exotic,241.36,618.1,43
+CC,4987,40.78305556,-77.89111111,burningbush,2016,113,burningbush,exotic,241.36,618.1,43
+CC,4952,40.78305556,-77.89111111,blackhaw,2016,93,blackhaw,native,241.36,618.1,43
+CC,4970,40.78305556,-77.89111111,burningbush,2016,93,burningbush,exotic,241.36,618.1,43
+CC,4981,40.78305556,-77.89111111,privet,2016,75,privet,exotic,241.36,618.1,43
+CC,4971,40.78305556,-77.89111111,Amur honeysuckle,2016,82,Amur honeysuckle,exotic,241.36,618.1,43
+CC,4956,40.78305556,-77.89111111,blackhaw,2016,93,blackhaw,native,241.36,618.1,43
+CC,4953,40.78305556,-77.89111111,blackhaw,2016,93,blackhaw,native,241.36,618.1,43
+HW,4281,40.80638889,-77.87611111,mapleleaf viburnum,2016,106,mapleleaf viburnum,native,241.36,618.1,43
+HW,4028,40.80638889,-77.87611111,privet,2016,75,privet,exotic,241.36,618.1,43
+HW,4249,40.80638889,-77.87611111,Japanese barberry,2016,82,Japanese barberry,exotic,241.36,618.1,43
+HW,4282,40.80638889,-77.87611111,mapleleaf viburnum,2016,106,mapleleaf viburnum,native,241.36,618.1,43
+HW,4280,40.80638889,-77.87611111,mapleleaf viburnum,2016,97,mapleleaf viburnum,native,241.36,618.1,43
+HW,4052,40.80638889,-77.87611111,Amur honeysuckle,2016,92,Amur honeysuckle,exotic,241.36,618.1,43
+HW,4029,40.80638889,-77.87611111,privet,2016,75,privet,exotic,241.36,618.1,43
+HW,4023,40.80638889,-77.87611111,Amur honeysuckle,2016,92,Amur honeysuckle,exotic,241.36,618.1,43
+HW,4040,40.80638889,-77.87611111,northern spicebush,2016,118,northern spicebush,native,241.36,618.1,43
+HW,4237,40.80638889,-77.87611111,northern spicebush,2016,118,northern spicebush,native,241.36,618.1,43
+HW,4252,40.80638889,-77.87611111,northern spicebush,2016,118,northern spicebush,native,241.36,618.1,43
+HW,4013,40.80638889,-77.87611111,bush honeysuckle,2016,75,Morrow's honeysuckle,exotic,241.36,618.1,43
+HW,4014,40.80638889,-77.87611111,bush honeysuckle,2016,69,Morrow's honeysuckle,exotic,241.36,618.1,43
+HW,4069,40.80638889,-77.87611111,privet,2016,69,privet,exotic,241.36,618.1,43
+HW,4068,40.80638889,-77.87611111,privet,2016,75,privet,exotic,241.36,618.1,43
+HW,4025,40.80638889,-77.87611111,blackhaw,2016,92,blackhaw,native,241.36,618.1,43
+HW,4288,40.80638889,-77.87611111,northern spicebush,2016,118,northern spicebush,native,241.36,618.1,43
+HW,4253,40.80638889,-77.87611111,northern spicebush,2016,118,northern spicebush,native,241.36,618.1,43
+HW,4044,40.80638889,-77.87611111,bush honeysuckle,2016,75,Morrow's honeysuckle,exotic,241.36,618.1,43
+HW,4012,40.80638889,-77.87611111,bush honeysuckle,2016,75,Morrow's honeysuckle,exotic,241.36,618.1,43
+HW,4031,40.80638889,-77.87611111,Japanese barberry,2016,75,Japanese barberry,exotic,241.36,618.1,43
+HW,4066,40.80638889,-77.87611111,Amur honeysuckle,2016,92,Amur honeysuckle,exotic,241.36,618.1,43
+HW,4010,40.80638889,-77.87611111,burningbush,2016,106,burningbush,exotic,241.36,618.1,43
+HW,4021,40.80638889,-77.87611111,blackhaw,2016,92,blackhaw,native,241.36,618.1,43
+HW,4024,40.80638889,-77.87611111,Amur honeysuckle,2016,92,Amur honeysuckle,exotic,241.36,618.1,43
+HW,4022,40.80638889,-77.87611111,Amur honeysuckle,2016,92,Amur honeysuckle,exotic,241.36,618.1,43
+HW,4229,40.80638889,-77.87611111,Amur honeysuckle,2016,92,Amur honeysuckle,exotic,241.36,618.1,43
+HW,4027,40.80638889,-77.87611111,blackhaw,2016,92,blackhaw,native,241.36,618.1,43
+HW,4026,40.80638889,-77.87611111,blackhaw,2016,92,blackhaw,native,241.36,618.1,43
+HW,4045,40.80638889,-77.87611111,burningbush,2016,106,burningbush,exotic,241.36,618.1,43
+HW,4293,40.80638889,-77.87611111,Japanese barberry,2016,75,Japanese barberry,exotic,241.36,618.1,43
+HW,4067,40.80638889,-77.87611111,burningbush,2016,106,burningbush,exotic,241.36,618.1,43
+HW,4290,40.80638889,-77.87611111,Japanese barberry,2016,75,Japanese barberry,exotic,241.36,618.1,43
+HW,4032,40.80638889,-77.87611111,blackhaw,2016,92,blackhaw,native,241.36,618.1,43
+HW,4009,40.80638889,-77.87611111,burningbush,2016,106,burningbush,exotic,241.36,618.1,43
+HW,4011,40.80638889,-77.87611111,burningbush,2016,106,burningbush,exotic,241.36,618.1,43
+HW,4056,40.80638889,-77.87611111,privet,2016,69,privet,exotic,241.36,618.1,43
+HW,4289,40.80638889,-77.87611111,mapleleaf viburnum,2016,106,mapleleaf viburnum,native,241.36,618.1,43
+HW,4034,40.80638889,-77.87611111,blackhaw,2016,82,blackhaw,native,241.36,618.1,43
+HW,4250,40.80638889,-77.87611111,Japanese barberry,2016,75,Japanese barberry,exotic,241.36,618.1,43
+HW,4030,40.80638889,-77.87611111,privet,2016,75,privet,exotic,241.36,618.1,43
+HW,4055,40.80638889,-77.87611111,burningbush,2016,106,burningbush,exotic,241.36,618.1,43
+HW,4054,40.80638889,-77.87611111,bush honeysuckle,2016,75,Morrow's honeysuckle,exotic,241.36,618.1,43
+HW,4064,40.80638889,-77.87611111,bush honeysuckle,2016,75,Morrow's honeysuckle,exotic,241.36,618.1,43
+HW,4286,40.80638889,-77.87611111,mapleleaf viburnum,2016,106,mapleleaf viburnum,native,241.36,618.1,43
+HW,4240,40.80638889,-77.87611111,Japanese barberry,2016,82,Japanese barberry,exotic,241.36,618.1,43
+SC,4223,40.66972222,-77.90916667,Japanese barberry,2016,71,Japanese barberry,exotic,244.93,648.9,45
+SC,4225,40.66972222,-77.90916667,burningbush,2016,105,burningbush,exotic,244.93,648.9,45
+SC,4221,40.66972222,-77.90916667,Japanese barberry,2016,78,Japanese barberry,exotic,244.93,648.9,45
+SC,4220,40.66972222,-77.90916667,Amur honeysuckle,2016,78,Amur honeysuckle,exotic,244.93,648.9,45
+SC,4224,40.66972222,-77.90916667,blackhaw,2016,92,blackhaw,native,244.93,648.9,45
+SC,3219,40.66972222,-77.90916667,Amur honeysuckle,2016,71,Amur honeysuckle,exotic,244.93,648.9,45
+SC,3203,40.66972222,-77.90916667,mapleleaf viburnum,2016,119,mapleleaf viburnum,native,244.93,648.9,45
+SC,3222,40.66972222,-77.90916667,privet,2016,105,privet,exotic,244.93,648.9,45
+SC,4222,40.66972222,-77.90916667,Amur honeysuckle,2016,78,Amur honeysuckle,exotic,244.93,648.9,45
+SC,3205,40.66972222,-77.90916667,blackhaw,2016,92,blackhaw,native,244.93,648.9,45
+SC,4219,40.66972222,-77.90916667,blackhaw,2016,92,blackhaw,native,244.93,648.9,45
+SC,4215,40.66972222,-77.90916667,Amur honeysuckle,2016,78,Amur honeysuckle,exotic,244.93,648.9,45
+SC,5000,40.66972222,-77.90916667,northern spicebush,2016,119,northern spicebush,native,244.93,648.9,45
+SC,3201,40.66972222,-77.90916667,Amur honeysuckle,2016,78,Amur honeysuckle,exotic,244.93,648.9,45
+SC,4906,40.66972222,-77.90916667,multiflora rose,2016,78,multiflora rose,exotic,244.93,648.9,45
+SC,4216,40.66972222,-77.90916667,Amur honeysuckle,2016,71,Amur honeysuckle,exotic,244.93,648.9,45
+SC,4218,40.66972222,-77.90916667,Amur honeysuckle,2016,78,Amur honeysuckle,exotic,244.93,648.9,45
+SC,3210,40.66972222,-77.90916667,Japanese barberry,2016,78,Japanese barberry,exotic,244.93,648.9,45
+SC,3209,40.66972222,-77.90916667,blackhaw,2016,92,blackhaw,native,244.93,648.9,45
+SC,97,40.66972222,-77.90916667,burningbush,2016,119,burningbush,exotic,244.93,648.9,45
+SC,3207,40.66972222,-77.90916667,mapleleaf viburnum,2016,105,mapleleaf viburnum,native,244.93,648.9,45
+SC,4905,40.66972222,-77.90916667,multiflora rose,2016,78,multiflora rose,exotic,244.93,648.9,45
+SC,3213,40.66972222,-77.90916667,burningbush,2016,105,burningbush,exotic,244.93,648.9,45
+SC,3214,40.66972222,-77.90916667,burningbush,2016,119,burningbush,exotic,244.93,648.9,45
+SC,3211,40.66972222,-77.90916667,blackhaw,2016,92,blackhaw,native,244.93,648.9,45
+SC,4217,40.66972222,-77.90916667,Amur honeysuckle,2016,78,Amur honeysuckle,exotic,244.93,648.9,45
+SC,3208,40.66972222,-77.90916667,mapleleaf viburnum,2016,119,mapleleaf viburnum,native,244.93,648.9,45
+SC,4214,40.66972222,-77.90916667,privet,2016,71,privet,exotic,244.93,648.9,45
+SC,4211,40.66972222,-77.90916667,Amur honeysuckle,2016,78,Amur honeysuckle,exotic,244.93,648.9,45
+SC,3206,40.66972222,-77.90916667,mapleleaf viburnum,2016,105,mapleleaf viburnum,native,244.93,648.9,45
+SC,4209,40.66972222,-77.90916667,privet,2016,71,privet,exotic,244.93,648.9,45
+SC,3220,40.66972222,-77.90916667,blackhaw,2016,92,blackhaw,native,244.93,648.9,45
+SC,3218,40.66972222,-77.90916667,Japanese barberry,2016,78,Japanese barberry,exotic,244.93,648.9,45
+SC,3217,40.66972222,-77.90916667,privet,2016,71,privet,exotic,244.93,648.9,45
+SC,3216,40.66972222,-77.90916667,mapleleaf viburnum,2016,105,mapleleaf viburnum,native,244.93,648.9,45
+SC,3204,40.66972222,-77.90916667,Japanese barberry,2016,71,Japanese barberry,exotic,244.93,648.9,45
+SC,4907,40.66972222,-77.90916667,multiflora rose,2016,78,multiflora rose,exotic,244.93,648.9,45
+SC,3202,40.66972222,-77.90916667,Amur honeysuckle,2016,83,Amur honeysuckle,exotic,244.93,648.9,45
+SC,4901,40.66972222,-77.90916667,Amur honeysuckle,2016,78,Amur honeysuckle,exotic,244.93,648.9,45
+SC,4997,40.66972222,-77.90916667,northern spicebush,2016,119,northern spicebush,native,244.93,648.9,45
+SC,4998,40.66972222,-77.90916667,burningbush,2016,119,burningbush,exotic,244.93,648.9,45
+SC,4908,40.66972222,-77.90916667,multiflora rose,2016,78,multiflora rose,exotic,244.93,648.9,45
+SC,4904,40.66972222,-77.90916667,multiflora rose,2016,78,multiflora rose,exotic,244.93,648.9,45
+SC,4204,40.66972222,-77.90916667,northern spicebush,2016,119,northern spicebush,native,244.93,648.9,45
+SC,4210,40.66972222,-77.90916667,northern spicebush,2016,119,northern spicebush,native,244.93,648.9,45
+SC,4205,40.66972222,-77.90916667,burningbush,2016,105,burningbush,exotic,244.93,648.9,45
+SC,3223,40.66972222,-77.90916667,Japanese barberry,2016,78,Japanese barberry,exotic,244.93,648.9,45
+SC,4202,40.66972222,-77.90916667,northern spicebush,2016,119,northern spicebush,native,244.93,648.9,45
+SC,4212,40.66972222,-77.90916667,Amur honeysuckle,2016,92,Amur honeysuckle,exotic,244.93,648.9,45
+SC,4201,40.66972222,-77.90916667,privet,2016,71,privet,exotic,244.93,648.9,45
+SC,4903,40.66972222,-77.90916667,multiflora rose,2016,71,multiflora rose,exotic,244.93,648.9,45
+SC,4206,40.66972222,-77.90916667,mapleleaf viburnum,2016,105,mapleleaf viburnum,native,244.93,648.9,45
+SC,4213,40.66972222,-77.90916667,northern spicebush,2016,119,northern spicebush,native,244.93,648.9,45
+SC,4208,40.66972222,-77.90916667,Amur honeysuckle,2016,71,Amur honeysuckle,exotic,244.93,648.9,45
+11617,102806,45.194656,-93.374901,bush honeysuckle,2017,108,Morrow's honeysuckle,exotic,92.17,370.2,23
+12003,50311,35.664433,-83.59095,flowering dogwood,2017,110,flowering dogwood,native,368.37,1195.6,53
+1327,1976,42.546036,-71.3545,flowering dogwood,2017,124,flowering dogwood,native,293.74,516.3,42
+1461,2446,42.283501,-83.771729,flowering dogwood,2017,112,flowering dogwood,native,176.33,542.3,37
+1579,2881,38.25724,-85.633087,flowering dogwood,2017,95,flowering dogwood,native,307.38,1163,51
+16208,59811,44.221031,-71.417603,hobblebush,2017,129,hobblebush,native,363.71,174,13
+16209,59815,44.222012,-71.418297,hobblebush,2017,129,hobblebush,native,363.71,174,13
+16211,59869,44.221432,-71.4151,hobblebush,2017,129,hobblebush,native,363.71,174,13
+16212,59872,44.258659,-71.252998,hobblebush,2017,128,hobblebush,native,392.67,201.8,13
+16213,59875,44.26144,-71.252998,hobblebush,2017,128,hobblebush,native,392.67,201.8,13
+16214,69836,44.262901,-71.252998,hobblebush,2017,130,hobblebush,native,392.67,201.8,13
+16235,59940,44.256149,-71.251701,hobblebush,2017,135,hobblebush,native,392.67,201.8,13
+16237,59948,44.255249,-71.251503,hobblebush,2017,130,hobblebush,native,392.67,201.8,13
+16238,59951,44.2523,-71.251701,hobblebush,2017,130,hobblebush,native,392.67,201.8,13
+16239,59954,44.25832,-71.253502,hobblebush,2017,135,hobblebush,native,392.67,201.8,13
+16240,59957,44.25872,-71.2537,hobblebush,2017,135,hobblebush,native,392.67,201.8,13
+16241,59961,44.261089,-71.253601,hobblebush,2017,130,hobblebush,native,392.67,201.8,13
+16257,59864,41.211025,-73.826889,northern spicebush,2017,108,northern spicebush,native,246.85,602.9,56
+16454,117470,41.667408,-73.895546,Amur honeysuckle,2017,101,Amur honeysuckle,exotic,255.39,533.4,47
+16454,117471,41.667408,-73.895546,Amur honeysuckle,2017,101,Amur honeysuckle,exotic,255.39,533.4,47
+16454,117469,41.667408,-73.895546,Amur honeysuckle,2017,101,Amur honeysuckle,exotic,255.39,533.4,47
+16454,117474,41.667408,-73.895546,Japanese barberry,2017,61,Japanese barberry,exotic,255.39,533.4,47
+16454,117475,41.667408,-73.895546,Japanese barberry,2017,61,Japanese barberry,exotic,255.39,533.4,47
+16454,117472,41.667408,-73.895546,Japanese barberry,2017,61,Japanese barberry,exotic,255.39,533.4,47
+16454,117468,41.667408,-73.895546,Amur honeysuckle,2017,101,Amur honeysuckle,exotic,255.39,533.4,47
+16454,62064,41.667408,-73.895546,northern spicebush,2017,108,northern spicebush,native,255.39,533.4,47
+16454,62065,41.667408,-73.895546,northern spicebush,2017,110,northern spicebush,native,255.39,533.4,47
+16454,62067,41.667408,-73.895546,flowering dogwood,2017,108,flowering dogwood,native,255.39,533.4,47
+16454,62070,41.667408,-73.895546,flowering dogwood,2017,108,flowering dogwood,native,255.39,533.4,47
+16454,117473,41.667408,-73.895546,Japanese barberry,2017,61,Japanese barberry,exotic,255.39,533.4,47
+16454,62080,41.667408,-73.895546,northern spicebush,2017,110,northern spicebush,native,255.39,533.4,47
+16454,62081,41.667408,-73.895546,northern spicebush,2017,110,northern spicebush,native,255.39,533.4,47
+16454,62071,41.667408,-73.895546,flowering dogwood,2017,101,flowering dogwood,native,255.39,533.4,47
+1668,102065,40.866283,-73.875717,mapleleaf viburnum,2017,103,mapleleaf viburnum,native,259.71,698.6,67
+1668,102068,40.866283,-73.875717,southern arrowwood,2017,103,southern arrowwood,native,259.71,698.6,67
+1668,102069,40.866283,-73.875717,southern arrowwood,2017,110,southern arrowwood,native,259.71,698.6,67
+1668,102066,40.866283,-73.875717,mapleleaf viburnum,2017,110,mapleleaf viburnum,native,259.71,698.6,67
+1668,66520,40.866283,-73.875717,flowering dogwood,2017,110,flowering dogwood,native,259.71,698.6,67
+1668,38603,40.866283,-73.875717,northern spicebush,2017,103,northern spicebush,native,259.71,698.6,67
+1668,38566,40.866283,-73.875717,northern spicebush,2017,103,northern spicebush,native,259.71,698.6,67
+1668,102067,40.866283,-73.875717,blackhaw,2017,102,blackhaw,native,259.71,698.6,67
+1668,38597,40.866283,-73.875717,northern spicebush,2017,110,northern spicebush,native,259.71,698.6,67
+16699,103726,44.652939,-93.631256,bush honeysuckle,2017,108,Tatarian honeysuckle,exotic,84.93,358.4,25
+16699,103697,44.652939,-93.631256,gray dogwood,2017,115,gray dogwood,native,84.93,358.4,25
+16876,64198,41.745537,-74.119392,flowering dogwood,2017,118,flowering dogwood,native,288.27,523,44
+16876,64197,41.745537,-74.119392,flowering dogwood,2017,112,flowering dogwood,native,288.27,523,44
+17414,128925,42.936153,-73.433449,bush honeysuckle,2017,101,Morrow's honeysuckle,exotic,226.5,381.3,26
+17414,103213,42.936153,-73.433449,gray dogwood,2017,112,gray dogwood,native,226.5,381.3,26
+17414,103214,42.936153,-73.433449,alternateleaf dogwood,2017,118,alternateleaf dogwood,native,226.5,381.3,26
+17562,67566,41.78577,-73.731003,northern spicebush,2017,116,northern spicebush,native,278.9,519.2,44
+17562,67567,41.78577,-73.731003,northern spicebush,2017,124,northern spicebush,native,278.9,519.2,44
+17753,69713,44.168583,-71.38765,hobblebush,2017,129,hobblebush,native,356.03,220,15
+17755,69711,44.171101,-71.386131,hobblebush,2017,123,hobblebush,native,356.03,220,15
+17756,69712,44.171883,-71.385483,hobblebush,2017,123,hobblebush,native,356.03,220,15
+17757,69856,44.172134,-71.384315,hobblebush,2017,129,hobblebush,native,356.03,220,15
+17758,69850,44.256454,-71.247581,hobblebush,2017,128,hobblebush,native,392.67,201.8,13
+17767,69844,44.246014,-71.254158,hobblebush,2017,129,hobblebush,native,392.67,201.8,13
+17769,69847,44.245659,-71.253677,hobblebush,2017,129,hobblebush,native,392.67,201.8,13
+17798,69341,38.927269,-76.921043,flowering dogwood,2017,106,flowering dogwood,native,180.97,1030.1,62
+18347,110164,43.346775,-70.557152,hobblebush,2017,117,hobblebush,native,349.46,345.7,33
+18347,110241,43.346775,-70.557152,multiflora rose,2017,117,multiflora rose,exotic,349.46,345.7,33
+18347,110591,43.346775,-70.557152,hobblebush,2017,117,hobblebush,native,349.46,345.7,33
+18491,117268,37.74184,-84.299866,flowering dogwood,2017,88,flowering dogwood,native,310.07,1111.6,53
+18491,117269,37.74184,-84.299866,flowering dogwood,2017,89,flowering dogwood,native,310.07,1111.6,53
+18491,117272,37.74184,-84.299866,flowering dogwood,2017,95,flowering dogwood,native,310.07,1111.6,53
+18491,117271,37.74184,-84.299866,flowering dogwood,2017,89,flowering dogwood,native,310.07,1111.6,53
+18491,117270,37.74184,-84.299866,flowering dogwood,2017,89,flowering dogwood,native,310.07,1111.6,53
+18504,73155,41.257492,-73.589012,northern spicebush,2017,123,northern spicebush,native,266.93,541.3,55
+18536,73392,40.866119,-73.879341,flowering dogwood,2017,118,flowering dogwood,native,259.71,698.6,67
+18537,120683,40.86404,-73.878288,flowering dogwood,2017,138,flowering dogwood,native,259.71,698.6,67
+18867,78529,38.216927,-85.762497,flowering dogwood,2017,87,flowering dogwood,native,318.27,1174.7,49
+18919,75511,35.563446,-82.621315,flowering dogwood,2017,103,flowering dogwood,native,184.55,1256.8,54
+19211,76897,35.353306,-83.195366,flowering dogwood,2017,107,flowering dogwood,native,241.07,1281.6,57
+19211,76905,35.353306,-83.195366,flowering dogwood,2017,100,flowering dogwood,native,241.07,1281.6,57
+19211,85182,35.353306,-83.195366,flowering dogwood,2017,107,flowering dogwood,native,241.07,1281.6,57
+19380,77361,35.811588,-78.713982,flowering dogwood,2017,70,flowering dogwood,native,199.45,1414.1,48
+19586,80392,40.669498,-73.965942,flowering dogwood,2017,122,flowering dogwood,native,293.55,726.3,69
+19586,85068,40.669498,-73.965942,northern spicebush,2017,108,northern spicebush,native,293.55,726.3,69
+19586,85069,40.669498,-73.965942,northern spicebush,2017,108,northern spicebush,native,293.55,726.3,69
+19586,85067,40.669498,-73.965942,northern spicebush,2017,108,northern spicebush,native,293.55,726.3,69
+19651,89420,41.290401,-70.170708,southern arrowwood,2017,142,southern arrowwood,native,284.25,549.1,68
+19651,89422,41.290401,-70.170708,southern arrowwood,2017,136,southern arrowwood,native,284.25,549.1,68
+19651,89425,41.290401,-70.170708,southern arrowwood,2017,136,southern arrowwood,native,284.25,549.1,68
+19960,107838,40.414814,-76.550964,multiflora rose,2017,99,multiflora rose,exotic,193.16,664.1,57
+20249,105376,38.613323,-90.258934,flowering dogwood,2017,87,flowering dogwood,native,92.91,1080.1,50
+20905,89470,41.290005,-70.17202,southern arrowwood,2017,129,southern arrowwood,native,284.25,549.1,68
+20905,89471,41.290005,-70.17202,southern arrowwood,2017,129,southern arrowwood,native,284.25,549.1,68
+20905,89472,41.290005,-70.17202,southern arrowwood,2017,129,southern arrowwood,native,284.25,549.1,68
+2119,102055,40.862221,-73.875191,southern arrowwood,2017,105,southern arrowwood,native,259.71,698.6,67
+2119,66509,40.862221,-73.875191,flowering dogwood,2017,105,flowering dogwood,native,259.71,698.6,67
+2119,38570,40.862221,-73.875191,northern spicebush,2017,105,northern spicebush,native,259.71,698.6,67
+2119,38567,40.862221,-73.875191,northern spicebush,2017,109,northern spicebush,native,259.71,698.6,67
+2120,102073,40.863445,-73.876656,blackhaw,2017,101,blackhaw,native,259.71,698.6,67
+2120,66513,40.863445,-73.876656,flowering dogwood,2017,111,flowering dogwood,native,259.71,698.6,67
+2120,102072,40.863445,-73.876656,blackhaw,2017,101,blackhaw,native,259.71,698.6,67
+22017,96829,35.497227,-82.608856,flowering dogwood,2017,102,flowering dogwood,native,188.5,1244.8,53
+22017,96833,35.497227,-82.608856,flowering dogwood,2017,102,flowering dogwood,native,188.5,1244.8,53
+2222,103179,42.545998,-71.355217,burningbush,2017,119,burningbush,exotic,293.74,516.3,42
+2222,41100,42.545998,-71.355217,flowering dogwood,2017,129,flowering dogwood,native,293.74,516.3,42
+22580,116373,42.077522,-72.558563,flowering dogwood,2017,116,flowering dogwood,native,262.29,513.4,43
+22589,100780,36.615578,-88.321381,flowering dogwood,2017,88,flowering dogwood,native,333.71,1246.3,50
+22589,100796,36.615578,-88.321381,flowering dogwood,2017,88,flowering dogwood,native,333.71,1246.3,50
+22589,100797,36.615578,-88.321381,flowering dogwood,2017,95,flowering dogwood,native,333.71,1246.3,50
+22589,100798,36.615578,-88.321381,flowering dogwood,2017,88,flowering dogwood,native,333.71,1246.3,50
+22589,100799,36.615578,-88.321381,flowering dogwood,2017,95,flowering dogwood,native,333.71,1246.3,50
+22720,132684,39.646072,-79.980118,flowering dogwood,2017,103,flowering dogwood,native,296.42,891.1,52
+22720,132691,39.646072,-79.980118,flowering dogwood,2017,106,flowering dogwood,native,296.42,891.1,52
+22720,132682,39.646072,-79.980118,flowering dogwood,2017,109,flowering dogwood,native,296.42,891.1,52
+22855,103174,42.684448,-73.905449,multiflora rose,2017,111,multiflora rose,exotic,210.71,426.4,39
+23016,127285,39.247299,-77.340401,multiflora rose,2017,98,multiflora rose,exotic,200.02,888.3,62
+23417,107860,41.866013,-73.953369,northern spicebush,2017,108,northern spicebush,native,294.46,562.3,47
+23533,109730,44.25589,-71.250458,hobblebush,2017,128,hobblebush,native,392.67,201.8,13
+24160,121640,39.560318,-76.283745,flowering dogwood,2017,79,flowering dogwood,native,213.5,849.1,62
+24160,121635,39.560318,-76.283745,flowering dogwood,2017,79,flowering dogwood,native,213.5,849.1,62
+24215,114860,40.734249,-74.669731,flowering dogwood,2017,122,flowering dogwood,native,257.72,621.8,51
+24216,114859,40.058323,-74.405663,flowering dogwood,2017,114,flowering dogwood,native,244.28,795.2,64
+24717,117157,42.789562,-77.823166,gray dogwood,2017,105,gray dogwood,native,172.06,505.4,43
+24717,117156,42.789562,-77.823166,gray dogwood,2017,101,gray dogwood,native,172.06,505.4,43
+24717,117148,42.789562,-77.823166,Amur honeysuckle,2017,90,Amur honeysuckle,exotic,172.06,505.4,43
+24717,117154,42.789562,-77.823166,gray dogwood,2017,98,gray dogwood,native,172.06,505.4,43
+24717,117155,42.789562,-77.823166,gray dogwood,2017,94,gray dogwood,native,172.06,505.4,43
+24717,117150,42.789562,-77.823166,Amur honeysuckle,2017,68,Amur honeysuckle,exotic,172.06,505.4,43
+24717,117152,42.789562,-77.823166,Amur honeysuckle,2017,99,Amur honeysuckle,exotic,172.06,505.4,43
+24717,117153,42.789562,-77.823166,Amur honeysuckle,2017,99,Amur honeysuckle,exotic,172.06,505.4,43
+24717,117159,42.789562,-77.823166,gray dogwood,2017,104,gray dogwood,native,172.06,505.4,43
+24717,117149,42.789562,-77.823166,Amur honeysuckle,2017,94,Amur honeysuckle,exotic,172.06,505.4,43
+24717,117151,42.789562,-77.823166,Amur honeysuckle,2017,88,Amur honeysuckle,exotic,172.06,505.4,43
+24717,117158,42.789562,-77.823166,gray dogwood,2017,104,gray dogwood,native,172.06,505.4,43
+25084,122802,36.130177,-86.79512,Amur honeysuckle,2017,57,Amur honeysuckle,exotic,332.54,1370.8,46
+25084,122801,36.130177,-86.79512,Amur honeysuckle,2017,57,Amur honeysuckle,exotic,332.54,1370.8,46
+25084,122800,36.130177,-86.79512,Amur honeysuckle,2017,57,Amur honeysuckle,exotic,332.54,1370.8,46
+25104,121786,42.636028,-87.828819,multiflora rose,2017,97,multiflora rose,exotic,148.55,439.3,37
+25213,124687,40.478542,-75.26786,multiflora rose,2017,65,multiflora rose,exotic,253.2,670.6,53
+25213,124686,40.478542,-75.26786,Japanese barberry,2017,88,Japanese barberry,exotic,253.2,670.6,53
+25265,129701,36.130177,-86.79512,Amur honeysuckle,2017,76,Amur honeysuckle,exotic,332.54,1370.8,46
+25265,121445,36.130177,-86.79512,Amur honeysuckle,2017,76,Amur honeysuckle,exotic,332.54,1370.8,46
+25265,129700,36.130177,-86.79512,Amur honeysuckle,2017,76,Amur honeysuckle,exotic,332.54,1370.8,46
+25295,123108,36.130177,-86.79512,flowering dogwood,2017,88,flowering dogwood,native,332.54,1370.8,46
+25295,124182,36.130177,-86.79512,flowering dogwood,2017,88,flowering dogwood,native,332.54,1370.8,46
+25295,124187,36.130177,-86.79512,flowering dogwood,2017,88,flowering dogwood,native,332.54,1370.8,46
+25295,124186,36.130177,-86.79512,flowering dogwood,2017,88,flowering dogwood,native,332.54,1370.8,46
+25296,130782,36.130177,-86.79512,privet,2017,54,Chinese privet,exotic,332.54,1370.8,46
+25296,130780,36.130177,-86.79512,privet,2017,54,Chinese privet,exotic,332.54,1370.8,46
+25296,130781,36.130177,-86.79512,privet,2017,54,Chinese privet,exotic,332.54,1370.8,46
+25297,121514,38.192722,-85.524467,Amur honeysuckle,2017,54,Amur honeysuckle,exotic,314.35,1132.4,49
+25297,121572,38.192722,-85.524467,privet,2017,47,privet,exotic,314.35,1132.4,49
+25297,121513,38.192722,-85.524467,Japanese barberry,2017,72,Japanese barberry,exotic,314.35,1132.4,49
+25367,122217,36.132805,-86.793556,Amur honeysuckle,2017,57,Amur honeysuckle,exotic,332.54,1370.8,46
+25367,123053,36.132805,-86.793556,Amur honeysuckle,2017,69,Amur honeysuckle,exotic,332.54,1370.8,46
+25373,135804,36.130177,-86.79512,flowering dogwood,2017,90,flowering dogwood,native,332.54,1370.8,46
+25373,135865,36.130177,-86.79512,flowering dogwood,2017,90,flowering dogwood,native,332.54,1370.8,46
+25373,135803,36.130177,-86.79512,flowering dogwood,2017,90,flowering dogwood,native,332.54,1370.8,46
+25453,123052,36.162663,-86.781601,flowering dogwood,2017,96,flowering dogwood,native,335.23,1376.4,46
+25453,123051,36.162663,-86.781601,flowering dogwood,2017,96,flowering dogwood,native,335.23,1376.4,46
+25453,123050,36.162663,-86.781601,flowering dogwood,2017,96,flowering dogwood,native,335.23,1376.4,46
+25462,124587,36.08287,-86.965279,flowering dogwood,2017,91,flowering dogwood,native,332.66,1364.7,46
+25462,123079,36.08287,-86.965279,flowering dogwood,2017,77,flowering dogwood,native,332.66,1364.7,46
+25472,123141,36.130177,-86.79512,flowering dogwood,2017,84,flowering dogwood,native,332.54,1370.8,46
+25565,124820,43.34066,-83.164528,multiflora rose,2017,95,multiflora rose,exotic,161.64,425.5,37
+25618,124196,36.07869,-86.909012,flowering dogwood,2017,81,flowering dogwood,native,332.46,1343.4,46
+25618,124195,36.07869,-86.909012,flowering dogwood,2017,60,flowering dogwood,native,332.46,1343.4,46
+25852,127427,35.733105,-78.853477,flowering dogwood,2017,85,flowering dogwood,native,195.13,1416.7,50
+25852,127110,35.733105,-78.853477,flowering dogwood,2017,85,flowering dogwood,native,195.13,1416.7,50
+25886,127447,35.608395,-82.446205,northern spicebush,2017,100,northern spicebush,native,194.44,1232.9,50
+25886,127456,35.608395,-82.446205,flowering dogwood,2017,106,flowering dogwood,native,194.44,1232.9,50
+25886,127445,35.608395,-82.446205,northern spicebush,2017,100,northern spicebush,native,194.44,1232.9,50
+25886,130826,35.608395,-82.446205,blackhaw,2017,84,blackhaw,native,194.44,1232.9,50
+25886,127457,35.608395,-82.446205,flowering dogwood,2017,107,flowering dogwood,native,194.44,1232.9,50
+25886,127458,35.608395,-82.446205,flowering dogwood,2017,70,flowering dogwood,native,194.44,1232.9,50
+25886,130827,35.608395,-82.446205,blackhaw,2017,84,blackhaw,native,194.44,1232.9,50
+25886,130828,35.608395,-82.446205,blackhaw,2017,94,blackhaw,native,194.44,1232.9,50
+25985,128909,39.94854,-82.923477,southern arrowwood,2017,98,southern arrowwood,native,225.06,848.7,49
+25985,128910,39.94854,-82.923477,mapleleaf viburnum,2017,98,mapleleaf viburnum,native,225.06,848.7,49
+26609,134677,42.452244,-73.381676,flowering dogwood,2017,121,flowering dogwood,native,251.1,331.1,26
+2669,87790,40.775406,-77.789986,flowering dogwood,2017,114,flowering dogwood,native,203.37,576.5,45
+26699,135389,44.464218,-93.192322,bush honeysuckle,2017,98,Tatarian honeysuckle,exotic,111.79,336.6,23
+26710,135417,44.464104,-93.191948,alternateleaf dogwood,2017,102,alternateleaf dogwood,native,111.79,336.6,23
+26723,135456,44.4645,-93.187645,bush honeysuckle,2017,108,Tatarian honeysuckle,exotic,111.79,336.6,23
+26734,135463,44.464466,-93.190643,bush honeysuckle,2017,98,Morrow's honeysuckle,exotic,111.79,336.6,23
+26768,135772,36.132896,-86.794067,Amur honeysuckle,2017,52,Amur honeysuckle,exotic,332.54,1370.8,46
+26798,135835,36.131435,-86.794159,Amur honeysuckle,2017,69,Amur honeysuckle,exotic,332.54,1370.8,46
+26798,135836,36.131435,-86.794159,Amur honeysuckle,2017,57,Amur honeysuckle,exotic,332.54,1370.8,46
+26798,135837,36.131435,-86.794159,Amur honeysuckle,2017,62,Amur honeysuckle,exotic,332.54,1370.8,46
+26807,135898,35.51749,-86.580444,Amur honeysuckle,2017,46,Amur honeysuckle,exotic,355.28,1404.5,44
+27567,142872,35.957191,-83.866592,northern spicebush,2017,89,northern spicebush,native,386.38,1336.8,50
+2772,103565,36.440838,-84.323586,multiflora rose,2017,22,multiflora rose,exotic,371.6,1154.8,47
+2772,122237,36.440838,-84.323586,flowering dogwood,2017,114,flowering dogwood,native,371.6,1154.8,47
+2772,103567,36.440838,-84.323586,mapleleaf viburnum,2017,91,mapleleaf viburnum,native,371.6,1154.8,47
+5206,10209,36.902622,-76.206039,flowering dogwood,2017,92,flowering dogwood,native,210.49,1260.9,49
+5206,10210,36.902622,-76.206039,flowering dogwood,2017,92,flowering dogwood,native,210.49,1260.9,49
+5208,10221,36.90799,-76.196022,flowering dogwood,2017,92,flowering dogwood,native,210.49,1260.9,49
+6362,103506,43.012966,-73.649918,gray dogwood,2017,124,gray dogwood,native,263.52,406.7,36
+8492,37174,35.890881,-82.821213,flowering dogwood,2017,98,flowering dogwood,native,310.6,1288.8,53
+8492,37175,35.890881,-82.821213,flowering dogwood,2017,98,flowering dogwood,native,310.6,1288.8,53
+8806,33109,35.640625,-83.689034,flowering dogwood,2017,103,flowering dogwood,native,395.43,1263.6,48
+8806,33120,35.640625,-83.689034,flowering dogwood,2017,103,flowering dogwood,native,395.43,1263.6,48
+8836,115504,35.686604,-83.537605,flowering dogwood,2017,89,flowering dogwood,native,361,1208.4,53
+8902,29938,35.520927,-83.309875,flowering dogwood,2017,111,flowering dogwood,native,357.31,1192,55
+8902,29933,35.520927,-83.309875,flowering dogwood,2017,102,flowering dogwood,native,357.31,1192,55
+9175,69848,44.255665,-71.250465,hobblebush,2017,135,hobblebush,native,392.67,201.8,13
+9338,33242,35.642117,-83.692589,flowering dogwood,2017,98,flowering dogwood,native,395.43,1263.6,48
+9341,33187,35.639874,-83.687721,flowering dogwood,2017,102,flowering dogwood,native,395.43,1263.6,48
+HW,4252,40.80638889,-77.87611111,northern spicebush,2017,109,northern spicebush,native,214.08,590.8,51
+HW,4055,40.80638889,-77.87611111,burningbush,2017,102,burningbush,exotic,214.08,590.8,51
+HW,4025,40.80638889,-77.87611111,blackhaw,2017,102,blackhaw,native,214.08,590.8,51
+HW,no tag,40.80638889,-77.87611111,alternateleaf dogwood,2017,109,alternateleaf dogwood,native,214.08,590.8,51
+HW,libe xxxx,40.80638889,-77.87611111,northern spicebush,2017,109,northern spicebush,native,214.08,590.8,51
+HW,4045,40.80638889,-77.87611111,burningbush,2017,102,burningbush,exotic,214.08,590.8,51
+HW,4056,40.80638889,-77.87611111,privet,2017,48,privet,exotic,214.08,590.8,51
+HW,4286,40.80638889,-77.87611111,mapleleaf viburnum,2017,109,mapleleaf viburnum,native,214.08,590.8,51
+HW,4066,40.80638889,-77.87611111,Amur honeysuckle,2017,93,Amur honeysuckle,exotic,214.08,590.8,51
+HW,4288,40.80638889,-77.87611111,northern spicebush,2017,109,northern spicebush,native,214.08,590.8,51
+HW,4253,40.80638889,-77.87611111,northern spicebush,2017,109,northern spicebush,native,214.08,590.8,51
+HW,4237,40.80638889,-77.87611111,northern spicebush,2017,109,northern spicebush,native,214.08,590.8,51
+HW,4282,40.80638889,-77.87611111,mapleleaf viburnum,2017,109,mapleleaf viburnum,native,214.08,590.8,51
+HW,4052,40.80638889,-77.87611111,Amur honeysuckle,2017,84,Amur honeysuckle,exotic,214.08,590.8,51
+HW,4044,40.80638889,-77.87611111,bush honeysuckle,2017,57,Morrow's honeysuckle,exotic,214.08,590.8,51
+HW,4249,40.80638889,-77.87611111,Japanese barberry,2017,57,Japanese barberry,exotic,214.08,590.8,51
+HW,4069,40.80638889,-77.87611111,privet,2017,60,privet,exotic,214.08,590.8,51
+HW,4040,40.80638889,-77.87611111,northern spicebush,2017,109,northern spicebush,native,214.08,590.8,51
+HW,4240,40.80638889,-77.87611111,Japanese barberry,2017,70,Japanese barberry,exotic,214.08,590.8,51
+HW,4067,40.80638889,-77.87611111,burningbush,2017,102,burningbush,exotic,214.08,590.8,51
+HW,4064,40.80638889,-77.87611111,bush honeysuckle,2017,57,Morrow's honeysuckle,exotic,214.08,590.8,51
+HW,4068,40.80638889,-77.87611111,privet,2017,48,privet,exotic,214.08,590.8,51
+HW,4054,40.80638889,-77.87611111,bush honeysuckle,2017,60,Morrow's honeysuckle,exotic,214.08,590.8,51
+HW,4013,40.80638889,-77.87611111,bush honeysuckle,2017,57,Morrow's honeysuckle,exotic,214.08,590.8,51
+HW,4014,40.80638889,-77.87611111,bush honeysuckle,2017,53,Morrow's honeysuckle,exotic,214.08,590.8,51
+HW,4032,40.80638889,-77.87611111,blackhaw,2017,93,blackhaw,native,214.08,590.8,51
+HW,4031,40.80638889,-77.87611111,Japanese barberry,2017,57,Japanese barberry,exotic,214.08,590.8,51
+HW,4029,40.80638889,-77.87611111,privet,2017,57,privet,exotic,214.08,590.8,51
+HW,4028,40.80638889,-77.87611111,privet,2017,60,privet,exotic,214.08,590.8,51
+HW,4023,40.80638889,-77.87611111,Amur honeysuckle,2017,88,Amur honeysuckle,exotic,214.08,590.8,51
+HW,4289,40.80638889,-77.87611111,mapleleaf viburnum,2017,109,mapleleaf viburnum,native,214.08,590.8,51
+HW,4281,40.80638889,-77.87611111,mapleleaf viburnum,2017,109,mapleleaf viburnum,native,214.08,590.8,51
+HW,4280,40.80638889,-77.87611111,mapleleaf viburnum,2017,109,mapleleaf viburnum,native,214.08,590.8,51
+HW,4296,40.80638889,-77.87611111,mapleleaf viburnum,2017,105,mapleleaf viburnum,native,214.08,590.8,51
+HW,4290,40.80638889,-77.87611111,Japanese barberry,2017,57,Japanese barberry,exotic,214.08,590.8,51
+HW,4012,40.80638889,-77.87611111,bush honeysuckle,2017,53,Morrow's honeysuckle,exotic,214.08,590.8,51
+HW,4293,40.80638889,-77.87611111,Japanese barberry,2017,57,Japanese barberry,exotic,214.08,590.8,51
+HW,4021,40.80638889,-77.87611111,blackhaw,2017,102,blackhaw,native,214.08,590.8,51
+HW,4011,40.80638889,-77.87611111,burningbush,2017,102,burningbush,exotic,214.08,590.8,51
+HW,4022,40.80638889,-77.87611111,Amur honeysuckle,2017,93,Amur honeysuckle,exotic,214.08,590.8,51
+HW,4034,40.80638889,-77.87611111,blackhaw,2017,98,blackhaw,native,214.08,590.8,51
+HW,4250,40.80638889,-77.87611111,Japanese barberry,2017,57,Japanese barberry,exotic,214.08,590.8,51
+HW,4027,40.80638889,-77.87611111,blackhaw,2017,93,blackhaw,native,214.08,590.8,51
+HW,4026,40.80638889,-77.87611111,blackhaw,2017,93,blackhaw,native,214.08,590.8,51
+HW,4009,40.80638889,-77.87611111,burningbush,2017,102,burningbush,exotic,214.08,590.8,51
+HW,4010,40.80638889,-77.87611111,burningbush,2017,102,burningbush,exotic,214.08,590.8,51
+HW,4024,40.80638889,-77.87611111,Amur honeysuckle,2017,70,Amur honeysuckle,exotic,214.08,590.8,51
+HW,4229,40.80638889,-77.87611111,Amur honeysuckle,2017,88,Amur honeysuckle,exotic,214.08,590.8,51
+HW,4030,40.80638889,-77.87611111,privet,2017,48,privet,exotic,214.08,590.8,51
+SC,3208,40.66972222,-77.90916667,mapleleaf viburnum,2017,108,mapleleaf viburnum,native,199.7,628.3,51
+SC,4997,40.66972222,-77.90916667,northern spicebush,2017,108,northern spicebush,native,199.7,628.3,51
+SC,4222,40.66972222,-77.90916667,Amur honeysuckle,2017,70,Amur honeysuckle,exotic,199.7,628.3,51
+SC,3210,40.66972222,-77.90916667,Japanese barberry,2017,57,Japanese barberry,exotic,199.7,628.3,51
+SC,4906,40.66972222,-77.90916667,multiflora rose,2017,57,multiflora rose,exotic,199.7,628.3,51
+SC,3205,40.66972222,-77.90916667,blackhaw,2017,98,blackhaw,native,199.7,628.3,51
+SC,3204,40.66972222,-77.90916667,Japanese barberry,2017,57,Japanese barberry,exotic,199.7,628.3,51
+SC,4225,40.66972222,-77.90916667,burningbush,2017,102,burningbush,exotic,199.7,628.3,51
+SC,4904,40.66972222,-77.90916667,multiflora rose,2017,57,multiflora rose,exotic,199.7,628.3,51
+SC,4221,40.66972222,-77.90916667,Japanese barberry,2017,60,Japanese barberry,exotic,199.7,628.3,51
+SC,4905,40.66972222,-77.90916667,multiflora rose,2017,57,multiflora rose,exotic,199.7,628.3,51
+SC,3206,40.66972222,-77.90916667,mapleleaf viburnum,2017,104,mapleleaf viburnum,native,199.7,628.3,51
+SC,3203,40.66972222,-77.90916667,mapleleaf viburnum,2017,108,mapleleaf viburnum,native,199.7,628.3,51
+SC,4907,40.66972222,-77.90916667,multiflora rose,2017,57,multiflora rose,exotic,199.7,628.3,51
+SC,3216,40.66972222,-77.90916667,mapleleaf viburnum,2017,108,mapleleaf viburnum,native,199.7,628.3,51
+SC,3214,40.66972222,-77.90916667,burningbush,2017,102,burningbush,exotic,199.7,628.3,51
+SC,3212,40.66972222,-77.90916667,privet,2017,54,privet,exotic,199.7,628.3,51
+SC,3211,40.66972222,-77.90916667,blackhaw,2017,98,blackhaw,native,199.7,628.3,51
+SC,3209,40.66972222,-77.90916667,blackhaw,2017,98,blackhaw,native,199.7,628.3,51
+SC,3213,40.66972222,-77.90916667,burningbush,2017,102,burningbush,exotic,199.7,628.3,51
+SC,4908,40.66972222,-77.90916667,multiflora rose,2017,57,multiflora rose,exotic,199.7,628.3,51
+SC,3202,40.66972222,-77.90916667,Amur honeysuckle,2017,78,Amur honeysuckle,exotic,199.7,628.3,51
+SC,4901,40.66972222,-77.90916667,Amur honeysuckle,2017,78,Amur honeysuckle,exotic,199.7,628.3,51
+SC,4998,40.66972222,-77.90916667,burningbush,2017,102,burningbush,exotic,199.7,628.3,51
+SC,4206,40.66972222,-77.90916667,mapleleaf viburnum,2017,108,mapleleaf viburnum,native,199.7,628.3,51
+SC,4204,40.66972222,-77.90916667,northern spicebush,2017,108,northern spicebush,native,199.7,628.3,51
+SC,4205,40.66972222,-77.90916667,burningbush,2017,102,burningbush,exotic,199.7,628.3,51
+SC,5000,40.66972222,-77.90916667,northern spicebush,2017,108,northern spicebush,native,199.7,628.3,51
+SC,3201,40.66972222,-77.90916667,Amur honeysuckle,2017,70,Amur honeysuckle,exotic,199.7,628.3,51
+SC,bl97,40.66972222,-77.90916667,burningbush,2017,102,burningbush,exotic,199.7,628.3,51
+SC,3221,40.66972222,-77.90916667,privet,2017,60,privet,exotic,199.7,628.3,51
+SC,3220,40.66972222,-77.90916667,blackhaw,2017,98,blackhaw,native,199.7,628.3,51
+SC,3218,40.66972222,-77.90916667,Japanese barberry,2017,60,Japanese barberry,exotic,199.7,628.3,51
+SC,3217,40.66972222,-77.90916667,privet,2017,57,privet,exotic,199.7,628.3,51
+SC,4202,40.66972222,-77.90916667,northern spicebush,2017,102,northern spicebush,native,199.7,628.3,51
+SC,4213,40.66972222,-77.90916667,northern spicebush,2017,108,northern spicebush,native,199.7,628.3,51
+SC,4201,40.66972222,-77.90916667,privet,2017,57,privet,exotic,199.7,628.3,51
+SC,4211,40.66972222,-77.90916667,Amur honeysuckle,2017,88,Amur honeysuckle,exotic,199.7,628.3,51
+SC,4223,40.66972222,-77.90916667,Japanese barberry,2017,57,Japanese barberry,exotic,199.7,628.3,51
+SC,4219,40.66972222,-77.90916667,blackhaw,2017,98,blackhaw,native,199.7,628.3,51
+SC,4212,40.66972222,-77.90916667,Amur honeysuckle,2017,78,Amur honeysuckle,exotic,199.7,628.3,51
+SC,4210,40.66972222,-77.90916667,northern spicebush,2017,108,northern spicebush,native,199.7,628.3,51
+SC,4209,40.66972222,-77.90916667,privet,2017,57,privet,exotic,199.7,628.3,51
+SC,4224,40.66972222,-77.90916667,blackhaw,2017,98,blackhaw,native,199.7,628.3,51
+SC,4215,40.66972222,-77.90916667,Amur honeysuckle,2017,57,Amur honeysuckle,exotic,199.7,628.3,51
+SC,4214,40.66972222,-77.90916667,privet,2017,60,privet,exotic,199.7,628.3,51
+SC,3222,40.66972222,-77.90916667,privet,2017,57,privet,exotic,199.7,628.3,51
+SC,4903,40.66972222,-77.90916667,multiflora rose,2017,57,multiflora rose,exotic,199.7,628.3,51
+SC,3223,40.66972222,-77.90916667,Japanese barberry,2017,57,Japanese barberry,exotic,199.7,628.3,51
+12003,50311,35.664433,-83.59095,flowering dogwood,2018,90,flowering dogwood,native,364.28,981.4,45
+1327,1976,42.546036,-71.3545,flowering dogwood,2018,127,flowering dogwood,native,270.6,524.7,35
+1461,2446,42.283501,-83.771729,flowering dogwood,2018,124,flowering dogwood,native,178.18,394.1,29
+16208,59811,44.221031,-71.417603,hobblebush,2018,130,hobblebush,native,367.04,169.7,8
+16209,59815,44.222012,-71.418297,hobblebush,2018,130,hobblebush,native,367.04,169.7,8
+16211,59869,44.221432,-71.4151,hobblebush,2018,128,hobblebush,native,367.04,169.7,8
+16212,59872,44.258659,-71.252998,hobblebush,2018,129,hobblebush,native,414.47,212,8
+16213,59875,44.26144,-71.252998,hobblebush,2018,127,hobblebush,native,414.47,212,8
+16214,69836,44.262901,-71.252998,hobblebush,2018,129,hobblebush,native,414.47,212,8
+16235,59940,44.256149,-71.251701,hobblebush,2018,143,hobblebush,native,414.47,212,8
+16237,59948,44.255249,-71.251503,hobblebush,2018,129,hobblebush,native,414.47,212,8
+16238,59951,44.2523,-71.251701,hobblebush,2018,129,hobblebush,native,414.47,212,8
+16239,59954,44.25832,-71.253502,hobblebush,2018,129,hobblebush,native,414.47,212,8
+16240,59957,44.25872,-71.2537,hobblebush,2018,129,hobblebush,native,414.47,212,8
+16241,59961,44.261089,-71.253601,hobblebush,2018,129,hobblebush,native,414.47,212,8
+16257,59864,41.211025,-73.826889,northern spicebush,2018,124,northern spicebush,native,283.44,531.2,43
+16257,162141,41.211025,-73.826889,burningbush,2018,124,burningbush,exotic,283.44,531.2,43
+16257,162142,41.211025,-73.826889,burningbush,2018,116,burningbush,exotic,283.44,531.2,43
+16257,162140,41.211025,-73.826889,burningbush,2018,124,burningbush,exotic,283.44,531.2,43
+16257,69435,41.211025,-73.826889,northern spicebush,2018,124,northern spicebush,native,283.44,531.2,43
+16454,117468,41.667408,-73.895546,Amur honeysuckle,2018,120,Amur honeysuckle,exotic,277.44,484.3,38
+16454,117469,41.667408,-73.895546,Amur honeysuckle,2018,120,Amur honeysuckle,exotic,277.44,484.3,38
+16454,62070,41.667408,-73.895546,flowering dogwood,2018,128,flowering dogwood,native,277.44,484.3,38
+16454,62071,41.667408,-73.895546,flowering dogwood,2018,128,flowering dogwood,native,277.44,484.3,38
+16454,62080,41.667408,-73.895546,northern spicebush,2018,128,northern spicebush,native,277.44,484.3,38
+16454,117470,41.667408,-73.895546,Amur honeysuckle,2018,120,Amur honeysuckle,exotic,277.44,484.3,38
+16454,62067,41.667408,-73.895546,flowering dogwood,2018,128,flowering dogwood,native,277.44,484.3,38
+16454,117471,41.667408,-73.895546,Amur honeysuckle,2018,120,Amur honeysuckle,exotic,277.44,484.3,38
+16454,62064,41.667408,-73.895546,northern spicebush,2018,128,northern spicebush,native,277.44,484.3,38
+16454,62081,41.667408,-73.895546,northern spicebush,2018,128,northern spicebush,native,277.44,484.3,38
+16454,117473,41.667408,-73.895546,Japanese barberry,2018,99,Japanese barberry,exotic,277.44,484.3,38
+16454,117474,41.667408,-73.895546,Japanese barberry,2018,99,Japanese barberry,exotic,277.44,484.3,38
+16454,117475,41.667408,-73.895546,Japanese barberry,2018,99,Japanese barberry,exotic,277.44,484.3,38
+16454,117472,41.667408,-73.895546,Japanese barberry,2018,99,Japanese barberry,exotic,277.44,484.3,38
+16454,62065,41.667408,-73.895546,northern spicebush,2018,128,northern spicebush,native,277.44,484.3,38
+1668,102067,40.866283,-73.875717,blackhaw,2018,88,blackhaw,native,275.82,614.6,51
+1668,102065,40.866283,-73.875717,mapleleaf viburnum,2018,88,mapleleaf viburnum,native,275.82,614.6,51
+1668,102066,40.866283,-73.875717,mapleleaf viburnum,2018,88,mapleleaf viburnum,native,275.82,614.6,51
+1668,38566,40.866283,-73.875717,northern spicebush,2018,88,northern spicebush,native,275.82,614.6,51
+1668,102068,40.866283,-73.875717,southern arrowwood,2018,88,southern arrowwood,native,275.82,614.6,51
+1668,102069,40.866283,-73.875717,southern arrowwood,2018,88,southern arrowwood,native,275.82,614.6,51
+1668,38597,40.866283,-73.875717,northern spicebush,2018,88,northern spicebush,native,275.82,614.6,51
+1668,66520,40.866283,-73.875717,flowering dogwood,2018,88,flowering dogwood,native,275.82,614.6,51
+1668,38603,40.866283,-73.875717,northern spicebush,2018,88,northern spicebush,native,275.82,614.6,51
+16876,64198,41.745537,-74.119392,flowering dogwood,2018,127,flowering dogwood,native,297.55,467.6,35
+16876,64197,41.745537,-74.119392,flowering dogwood,2018,127,flowering dogwood,native,297.55,467.6,35
+17311,102071,40.859993,-73.877342,mapleleaf viburnum,2018,108,mapleleaf viburnum,native,275.82,614.6,51
+17414,103214,42.936153,-73.433449,alternateleaf dogwood,2018,130,alternateleaf dogwood,native,243.8,398.4,27
+17414,103213,42.936153,-73.433449,gray dogwood,2018,124,gray dogwood,native,243.8,398.4,27
+17562,67566,41.78577,-73.731003,northern spicebush,2018,122,northern spicebush,native,306.99,472.3,35
+17562,137000,41.78577,-73.731003,northern spicebush,2018,124,northern spicebush,native,306.99,472.3,35
+17640,154675,42.307346,-76.521446,bush honeysuckle,2018,126,Morrow's honeysuckle,exotic,170.48,261.8,25
+17680,103560,44.924969,-92.789955,bush honeysuckle,2018,127,Tatarian honeysuckle,exotic,88.47,198.3,10
+17753,69713,44.168583,-71.38765,hobblebush,2018,128,hobblebush,native,357.94,227.1,9
+17755,69711,44.171101,-71.386131,hobblebush,2018,130,hobblebush,native,357.94,227.1,9
+17756,69712,44.171883,-71.385483,hobblebush,2018,128,hobblebush,native,357.94,227.1,9
+17757,69856,44.172134,-71.384315,hobblebush,2018,128,hobblebush,native,357.94,227.1,9
+17758,69850,44.256454,-71.247581,hobblebush,2018,129,hobblebush,native,414.47,212,8
+17767,69844,44.246014,-71.254158,hobblebush,2018,131,hobblebush,native,414.47,212,8
+17769,69847,44.245659,-71.253677,hobblebush,2018,131,hobblebush,native,414.47,212,8
+18347,110164,43.346775,-70.557152,hobblebush,2018,127,hobblebush,native,308.91,363.8,28
+18536,73392,40.866119,-73.879341,flowering dogwood,2018,128,flowering dogwood,native,275.82,614.6,51
+18537,120683,40.86404,-73.878288,flowering dogwood,2018,123,flowering dogwood,native,275.82,614.6,51
+18919,75511,35.563446,-82.621315,flowering dogwood,2018,96,flowering dogwood,native,240.11,1012.3,45
+19380,77361,35.811588,-78.713982,flowering dogwood,2018,91,flowering dogwood,native,200.27,1135.7,47
+19586,85069,40.669498,-73.965942,northern spicebush,2018,111,northern spicebush,native,277.02,631.7,51
+19651,89420,41.290401,-70.170708,southern arrowwood,2018,141,southern arrowwood,native,342.56,500.3,61
+19651,89422,41.290401,-70.170708,southern arrowwood,2018,141,southern arrowwood,native,342.56,500.3,61
+19651,89425,41.290401,-70.170708,southern arrowwood,2018,141,southern arrowwood,native,342.56,500.3,61
+20905,89470,41.290005,-70.17202,southern arrowwood,2018,141,southern arrowwood,native,342.56,500.3,61
+20905,89471,41.290005,-70.17202,southern arrowwood,2018,141,southern arrowwood,native,342.56,500.3,61
+20905,89472,41.290005,-70.17202,southern arrowwood,2018,141,southern arrowwood,native,342.56,500.3,61
+2119,102055,40.862221,-73.875191,southern arrowwood,2018,108,southern arrowwood,native,275.82,614.6,51
+2119,66509,40.862221,-73.875191,flowering dogwood,2018,123,flowering dogwood,native,275.82,614.6,51
+2119,38570,40.862221,-73.875191,northern spicebush,2018,123,northern spicebush,native,275.82,614.6,51
+2119,38567,40.862221,-73.875191,northern spicebush,2018,116,northern spicebush,native,275.82,614.6,51
+2120,102073,40.863445,-73.876656,blackhaw,2018,108,blackhaw,native,275.82,614.6,51
+2120,66513,40.863445,-73.876656,flowering dogwood,2018,125,flowering dogwood,native,275.82,614.6,51
+2120,102072,40.863445,-73.876656,blackhaw,2018,108,blackhaw,native,275.82,614.6,51
+22017,96829,35.497227,-82.608856,flowering dogwood,2018,103,flowering dogwood,native,298.12,994.9,46
+22017,96833,35.497227,-82.608856,flowering dogwood,2018,88,flowering dogwood,native,298.12,994.9,46
+2222,41100,42.545998,-71.355217,flowering dogwood,2018,133,flowering dogwood,native,270.6,524.7,35
+2222,103179,42.545998,-71.355217,burningbush,2018,123,burningbush,exotic,270.6,524.7,35
+22221,165687,42.275463,-73.59787,flowering dogwood,2018,130,flowering dogwood,native,260.14,378.4,28
+22720,132691,39.646072,-79.980118,flowering dogwood,2018,126,flowering dogwood,native,292.6,715.8,39
+22720,132684,39.646072,-79.980118,flowering dogwood,2018,116,flowering dogwood,native,292.6,715.8,39
+22720,132682,39.646072,-79.980118,flowering dogwood,2018,116,flowering dogwood,native,292.6,715.8,39
+23056,104744,40.37122,-78.78167,alternateleaf dogwood,2018,124,alternateleaf dogwood,native,336.91,452.6,34
+23417,107859,41.866013,-73.953369,northern spicebush,2018,124,northern spicebush,native,296.88,513.1,37
+23417,107858,41.866013,-73.953369,northern spicebush,2018,124,northern spicebush,native,296.88,513.1,37
+23417,107860,41.866013,-73.953369,northern spicebush,2018,124,northern spicebush,native,296.88,513.1,37
+23533,109730,44.25589,-71.250458,hobblebush,2018,129,hobblebush,native,414.47,212,8
+23676,114609,46.996738,-94.696556,gray dogwood,2018,140,gray dogwood,native,53.38,124.4,1
+23676,115238,46.996738,-94.696556,bush honeysuckle,2018,133,Tatarian honeysuckle,exotic,53.38,124.4,1
+24473,116017,35.502415,-82.526787,flowering dogwood,2018,40,flowering dogwood,native,279.27,994.8,45
+24717,117151,42.789562,-77.823166,Amur honeysuckle,2018,112,Amur honeysuckle,exotic,169.35,395,33
+24717,117152,42.789562,-77.823166,Amur honeysuckle,2018,115,Amur honeysuckle,exotic,169.35,395,33
+24717,117149,42.789562,-77.823166,Amur honeysuckle,2018,119,Amur honeysuckle,exotic,169.35,395,33
+24717,117150,42.789562,-77.823166,Amur honeysuckle,2018,109,Amur honeysuckle,exotic,169.35,395,33
+24717,145986,42.789562,-77.823166,Amur honeysuckle,2018,96,Amur honeysuckle,exotic,169.35,395,33
+24717,117153,42.789562,-77.823166,Amur honeysuckle,2018,119,Amur honeysuckle,exotic,169.35,395,33
+24717,145984,42.789562,-77.823166,Amur honeysuckle,2018,115,Amur honeysuckle,exotic,169.35,395,33
+25565,124820,43.34066,-83.164528,multiflora rose,2018,127,multiflora rose,exotic,153.15,294.9,28
+25686,161121,38.920872,-77.357056,flowering dogwood,2018,115,flowering dogwood,native,183.77,756.9,47
+25686,161120,38.920872,-77.357056,flowering dogwood,2018,115,flowering dogwood,native,183.77,756.9,47
+25886,127445,35.608395,-82.446205,northern spicebush,2018,118,northern spicebush,native,238.98,972.3,46
+25886,127456,35.608395,-82.446205,flowering dogwood,2018,110,flowering dogwood,native,238.98,972.3,46
+25886,130826,35.608395,-82.446205,blackhaw,2018,83,blackhaw,native,238.98,972.3,46
+25930,146008,38.988258,-94.813515,Amur honeysuckle,2018,131,Amur honeysuckle,exotic,56.29,739,40
+26742,138032,40.585384,-75.521538,flowering dogwood,2018,117,flowering dogwood,native,286.17,543.2,41
+26742,138031,40.585384,-75.521538,flowering dogwood,2018,123,flowering dogwood,native,286.17,543.2,41
+26742,148441,40.585384,-75.521538,flowering dogwood,2018,123,flowering dogwood,native,286.17,543.2,41
+26742,148442,40.585384,-75.521538,flowering dogwood,2018,123,flowering dogwood,native,286.17,543.2,41
+26742,148446,40.585384,-75.521538,flowering dogwood,2018,123,flowering dogwood,native,286.17,543.2,41
+26742,148444,40.585384,-75.521538,flowering dogwood,2018,123,flowering dogwood,native,286.17,543.2,41
+26742,148445,40.585384,-75.521538,flowering dogwood,2018,123,flowering dogwood,native,286.17,543.2,41
+26742,148443,40.585384,-75.521538,flowering dogwood,2018,123,flowering dogwood,native,286.17,543.2,41
+26742,148447,40.585384,-75.521538,flowering dogwood,2018,123,flowering dogwood,native,286.17,543.2,41
+27467,147777,40.655563,-73.997101,flowering dogwood,2018,124,flowering dogwood,native,274.16,644.7,51
+27567,142872,35.957191,-83.866592,northern spicebush,2018,81,northern spicebush,native,330.71,1097.3,49
+27645,150704,40.652672,-73.987457,flowering dogwood,2018,124,flowering dogwood,native,274.16,644.7,51
+2772,122237,36.440838,-84.323586,flowering dogwood,2018,110,flowering dogwood,native,400.77,945.4,41
+2772,103567,36.440838,-84.323586,mapleleaf viburnum,2018,96,mapleleaf viburnum,native,400.77,945.4,41
+2772,133818,36.440838,-84.323586,Amur honeysuckle,2018,53,Amur honeysuckle,exotic,400.77,945.4,41
+2772,103565,36.440838,-84.323586,multiflora rose,2018,40,multiflora rose,exotic,400.77,945.4,41
+2792,103601,35.64893,-78.816948,flowering dogwood,2018,99,flowering dogwood,native,206.39,1149.3,48
+28729,150988,40.202297,-77.196671,flowering dogwood,2018,108,flowering dogwood,native,243.04,570.7,43
+28729,151059,40.202297,-77.196671,flowering dogwood,2018,114,flowering dogwood,native,243.04,570.7,43
+28853,152759,42.318691,-72.642982,multiflora rose,2018,121,multiflora rose,exotic,285.4,499.4,34
+28853,152756,42.318691,-72.642982,privet,2018,109,privet,exotic,285.4,499.4,34
+28853,152952,42.318691,-72.642982,privet,2018,117,privet,exotic,285.4,499.4,34
+28853,152954,42.318691,-72.642982,privet,2018,115,privet,exotic,285.4,499.4,34
+28853,153415,42.318691,-72.642982,privet,2018,108,privet,exotic,285.4,499.4,34
+28853,152956,42.318691,-72.642982,multiflora rose,2018,106,multiflora rose,exotic,285.4,499.4,34
+28853,153421,42.318691,-72.642982,gray dogwood,2018,116,gray dogwood,native,285.4,499.4,34
+28853,152958,42.318691,-72.642982,multiflora rose,2018,116,multiflora rose,exotic,285.4,499.4,34
+28853,153414,42.318691,-72.642982,gray dogwood,2018,118,gray dogwood,native,285.4,499.4,34
+28853,153409,42.318691,-72.642982,privet,2018,122,privet,exotic,285.4,499.4,34
+28853,152957,42.318691,-72.642982,multiflora rose,2018,101,multiflora rose,exotic,285.4,499.4,34
+28853,153416,42.318691,-72.642982,multiflora rose,2018,86,multiflora rose,exotic,285.4,499.4,34
+28853,153407,42.318691,-72.642982,gray dogwood,2018,122,gray dogwood,native,285.4,499.4,34
+28853,153402,42.318691,-72.642982,multiflora rose,2018,93,multiflora rose,exotic,285.4,499.4,34
+28893,151456,40.570049,-80.150795,privet,2018,58,privet,exotic,349.87,534.5,36
+28952,152801,37.144978,-80.547508,Amur honeysuckle,2018,53,Amur honeysuckle,exotic,169.44,803.7,45
+28952,152514,37.144978,-80.547508,Amur honeysuckle,2018,53,Amur honeysuckle,exotic,169.44,803.7,45
+28952,152799,37.144978,-80.547508,Amur honeysuckle,2018,53,Amur honeysuckle,exotic,169.44,803.7,45
+28952,152800,37.144978,-80.547508,Amur honeysuckle,2018,53,Amur honeysuckle,exotic,169.44,803.7,45
+29095,153254,35.957573,-83.866669,flowering dogwood,2018,99,flowering dogwood,native,330.71,1097.3,49
+29095,153255,35.957573,-83.866669,northern spicebush,2018,75,northern spicebush,native,330.71,1097.3,49
+29095,153259,35.957573,-83.866669,multiflora rose,2018,48,multiflora rose,exotic,330.71,1097.3,49
+29095,153258,35.957573,-83.866669,privet,2018,52,privet,exotic,330.71,1097.3,49
+29095,153256,35.957573,-83.866669,Amur honeysuckle,2018,48,Amur honeysuckle,exotic,330.71,1097.3,49
+29104,153266,35.95797,-83.864532,Amur honeysuckle,2018,48,Amur honeysuckle,exotic,330.71,1097.3,49
+29104,153264,35.95797,-83.864532,northern spicebush,2018,88,northern spicebush,native,330.71,1097.3,49
+29104,153263,35.95797,-83.864532,flowering dogwood,2018,88,flowering dogwood,native,330.71,1097.3,49
+29104,153267,35.95797,-83.864532,privet,2018,52,privet,exotic,330.71,1097.3,49
+29104,153268,35.95797,-83.864532,multiflora rose,2018,48,multiflora rose,exotic,330.71,1097.3,49
+29220,154048,37.087898,-80.551437,northern spicebush,2018,95,northern spicebush,native,175.6,798,47
+29220,154049,37.087898,-80.551437,northern spicebush,2018,95,northern spicebush,native,175.6,798,47
+29565,156702,39.818771,-84.915894,Amur honeysuckle,2018,67,Amur honeysuckle,exotic,222.12,525.1,36
+29565,156696,39.818771,-84.915894,Amur honeysuckle,2018,67,Amur honeysuckle,exotic,222.12,525.1,36
+29565,156712,39.818771,-84.915894,Amur honeysuckle,2018,67,Amur honeysuckle,exotic,222.12,525.1,36
+29565,156713,39.818771,-84.915894,Amur honeysuckle,2018,67,Amur honeysuckle,exotic,222.12,525.1,36
+29565,156714,39.818771,-84.915894,Amur honeysuckle,2018,67,Amur honeysuckle,exotic,222.12,525.1,36
+29566,156707,39.818779,-84.915741,Amur honeysuckle,2018,67,Amur honeysuckle,exotic,222.12,525.1,36
+29566,156686,39.818779,-84.915741,Amur honeysuckle,2018,67,Amur honeysuckle,exotic,222.12,525.1,36
+29566,156687,39.818779,-84.915741,Amur honeysuckle,2018,67,Amur honeysuckle,exotic,222.12,525.1,36
+29566,156681,39.818779,-84.915741,Amur honeysuckle,2018,67,Amur honeysuckle,exotic,222.12,525.1,36
+29566,156690,39.818779,-84.915741,Amur honeysuckle,2018,67,Amur honeysuckle,exotic,222.12,525.1,36
+29566,156692,39.818779,-84.915741,Amur honeysuckle,2018,67,Amur honeysuckle,exotic,222.12,525.1,36
+29566,156695,39.818779,-84.915741,Amur honeysuckle,2018,67,Amur honeysuckle,exotic,222.12,525.1,36
+29566,156682,39.818779,-84.915741,Amur honeysuckle,2018,67,Amur honeysuckle,exotic,222.12,525.1,36
+29566,156704,39.818779,-84.915741,Amur honeysuckle,2018,67,Amur honeysuckle,exotic,222.12,525.1,36
+29566,156680,39.818779,-84.915741,Amur honeysuckle,2018,67,Amur honeysuckle,exotic,222.12,525.1,36
+29566,156689,39.818779,-84.915741,Amur honeysuckle,2018,67,Amur honeysuckle,exotic,222.12,525.1,36
+29566,156684,39.818779,-84.915741,Amur honeysuckle,2018,67,Amur honeysuckle,exotic,222.12,525.1,36
+29566,156685,39.818779,-84.915741,Amur honeysuckle,2018,67,Amur honeysuckle,exotic,222.12,525.1,36
+29835,158990,35.827705,-78.645378,flowering dogwood,2018,91,flowering dogwood,native,179.15,1158.5,48
+30057,161043,42.050625,-87.679726,burningbush,2018,128,burningbush,exotic,158.29,445.7,34
+30144,161056,42.148972,-87.789696,blackhaw,2018,122,blackhaw,native,157.83,434.3,32
+30259,161448,39.95372,-75.44413,northern spicebush,2018,116,northern spicebush,native,254.26,641.4,49
+30653,166398,40.350262,-82.926559,northern spicebush,2018,116,northern spicebush,native,250.55,543.9,35
+6242,16532,43.348259,-70.546036,hobblebush,2018,127,hobblebush,native,308.91,363.8,28
+6242,28521,43.348259,-70.546036,hobblebush,2018,124,hobblebush,native,308.91,363.8,28
+6242,28523,43.348259,-70.546036,hobblebush,2018,124,hobblebush,native,308.91,363.8,28
+8806,33120,35.640625,-83.689034,flowering dogwood,2018,95,flowering dogwood,native,378.05,1053.5,43
+8806,33109,35.640625,-83.689034,flowering dogwood,2018,101,flowering dogwood,native,378.05,1053.5,43
+8836,115504,35.686604,-83.537605,flowering dogwood,2018,91,flowering dogwood,native,361.49,994.5,47
+8903,29947,35.463467,-83.433441,flowering dogwood,2018,112,flowering dogwood,native,353.86,1007.6,46
+8903,29948,35.463467,-83.433441,flowering dogwood,2018,111,flowering dogwood,native,353.86,1007.6,46
+9175,69848,44.255665,-71.250465,hobblebush,2018,129,hobblebush,native,414.47,212,8
+9341,33187,35.639874,-83.687721,flowering dogwood,2018,94,flowering dogwood,native,378.05,1053.5,43
+HW,4250,40.80638889,-77.87611111,Japanese barberry,2018,88,Japanese barberry,exotic,243.29,448.5,36
+HW,4030,40.80638889,-77.87611111,privet,2018,57,privet,exotic,243.29,448.5,36
+HW,coralt,40.80638889,-77.87611111,alternateleaf dogwood,2018,123,alternateleaf dogwood,native,243.29,448.5,36
+HW,4290,40.80638889,-77.87611111,Japanese barberry,2018,74,Japanese barberry,exotic,243.29,448.5,36
+HW,4034,40.80638889,-77.87611111,blackhaw,2018,115,blackhaw,native,243.29,448.5,36
+HW,4032,40.80638889,-77.87611111,blackhaw,2018,115,blackhaw,native,243.29,448.5,36
+HW,4031,40.80638889,-77.87611111,Japanese barberry,2018,88,Japanese barberry,exotic,243.29,448.5,36
+HW,4067,40.80638889,-77.87611111,burningbush,2018,119,burningbush,exotic,243.29,448.5,36
+HW,4286,40.80638889,-77.87611111,mapleleaf viburnum,2018,123,mapleleaf viburnum,native,243.29,448.5,36
+HW,4024,40.80638889,-77.87611111,Amur honeysuckle,2018,106,Amur honeysuckle,exotic,243.29,448.5,36
+HW,libe xxxx,40.80638889,-77.87611111,northern spicebush,2018,123,northern spicebush,native,243.29,448.5,36
+HW,4293,40.80638889,-77.87611111,Japanese barberry,2018,88,Japanese barberry,exotic,243.29,448.5,36
+HW,4289,40.80638889,-77.87611111,mapleleaf viburnum,2018,123,mapleleaf viburnum,native,243.29,448.5,36
+HW,4021,40.80638889,-77.87611111,blackhaw,2018,115,blackhaw,native,243.29,448.5,36
+HW,4009,40.80638889,-77.87611111,burningbush,2018,119,burningbush,exotic,243.29,448.5,36
+HW,4064,40.80638889,-77.87611111,bush honeysuckle,2018,93,Morrow's honeysuckle,exotic,243.29,448.5,36
+HW,4045,40.80638889,-77.87611111,burningbush,2018,119,burningbush,exotic,243.29,448.5,36
+HW,4069,40.80638889,-77.87611111,privet,2018,106,privet,exotic,243.29,448.5,36
+HW,4240,40.80638889,-77.87611111,Japanese barberry,2018,93,Japanese barberry,exotic,243.29,448.5,36
+HW,4010,40.80638889,-77.87611111,burningbush,2018,119,burningbush,exotic,243.29,448.5,36
+HW,4068,40.80638889,-77.87611111,privet,2018,106,privet,exotic,243.29,448.5,36
+HW,4027,40.80638889,-77.87611111,blackhaw,2018,119,blackhaw,native,243.29,448.5,36
+HW,4011,40.80638889,-77.87611111,burningbush,2018,119,burningbush,exotic,243.29,448.5,36
+HW,4022,40.80638889,-77.87611111,Amur honeysuckle,2018,106,Amur honeysuckle,exotic,243.29,448.5,36
+HW,4229,40.80638889,-77.87611111,Amur honeysuckle,2018,106,Amur honeysuckle,exotic,243.29,448.5,36
+HW,4066,40.80638889,-77.87611111,Amur honeysuckle,2018,106,Amur honeysuckle,exotic,243.29,448.5,36
+HW,4056,40.80638889,-77.87611111,privet,2018,106,privet,exotic,243.29,448.5,36
+HW,4288,40.80638889,-77.87611111,northern spicebush,2018,123,northern spicebush,native,243.29,448.5,36
+HW,4253,40.80638889,-77.87611111,northern spicebush,2018,123,northern spicebush,native,243.29,448.5,36
+HW,4237,40.80638889,-77.87611111,northern spicebush,2018,123,northern spicebush,native,243.29,448.5,36
+HW,4052,40.80638889,-77.87611111,Amur honeysuckle,2018,106,Amur honeysuckle,exotic,243.29,448.5,36
+HW,4044,40.80638889,-77.87611111,bush honeysuckle,2018,74,Morrow's honeysuckle,exotic,243.29,448.5,36
+HW,4296?,40.80638889,-77.87611111,mapleleaf viburnum,2018,123,mapleleaf viburnum,native,243.29,448.5,36
+HW,4055,40.80638889,-77.87611111,burningbush,2018,119,burningbush,exotic,243.29,448.5,36
+HW,4014,40.80638889,-77.87611111,bush honeysuckle,2018,74,Morrow's honeysuckle,exotic,243.29,448.5,36
+HW,4023,40.80638889,-77.87611111,Amur honeysuckle,2018,106,Amur honeysuckle,exotic,243.29,448.5,36
+HW,4249,40.80638889,-77.87611111,Japanese barberry,2018,97,Japanese barberry,exotic,243.29,448.5,36
+HW,4252,40.80638889,-77.87611111,northern spicebush,2018,123,northern spicebush,native,243.29,448.5,36
+HW,4025,40.80638889,-77.87611111,blackhaw,2018,119,blackhaw,native,243.29,448.5,36
+HW,4028,40.80638889,-77.87611111,privet,2018,106,privet,exotic,243.29,448.5,36
+HW,4013,40.80638889,-77.87611111,bush honeysuckle,2018,74,Morrow's honeysuckle,exotic,243.29,448.5,36
+HW,4012,40.80638889,-77.87611111,bush honeysuckle,2018,106,Morrow's honeysuckle,exotic,243.29,448.5,36
+HW,4280,40.80638889,-77.87611111,mapleleaf viburnum,2018,123,mapleleaf viburnum,native,243.29,448.5,36
+HW,4281,40.80638889,-77.87611111,mapleleaf viburnum,2018,123,mapleleaf viburnum,native,243.29,448.5,36
+HW,4040,40.80638889,-77.87611111,northern spicebush,2018,123,northern spicebush,native,243.29,448.5,36
+HW,4026,40.80638889,-77.87611111,blackhaw,2018,115,blackhaw,native,243.29,448.5,36
+HW,4282,40.80638889,-77.87611111,mapleleaf viburnum,2018,78,mapleleaf viburnum,native,243.29,448.5,36
+HW,4029,40.80638889,-77.87611111,privet,2018,106,privet,exotic,243.29,448.5,36
+SC,3201,40.66972222,-77.90916667,Amur honeysuckle,2018,106,Amur honeysuckle,exotic,241.62,479.2,34
+SC,4212,40.66972222,-77.90916667,Amur honeysuckle,2018,106,Amur honeysuckle,exotic,241.62,479.2,34
+SC,4201,40.66972222,-77.90916667,privet,2018,106,privet,exotic,241.62,479.2,34
+SC,3218,40.66972222,-77.90916667,Japanese barberry,2018,85,Japanese barberry,exotic,241.62,479.2,34
+SC,4225,40.66972222,-77.90916667,burningbush,2018,123,burningbush,exotic,241.62,479.2,34
+SC,4224,40.66972222,-77.90916667,blackhaw,2018,115,blackhaw,native,241.62,479.2,34
+SC,5000,40.66972222,-77.90916667,northern spicebush,2018,123,northern spicebush,native,241.62,479.2,34
+SC,bl97,40.66972222,-77.90916667,burningbush,2018,119,burningbush,exotic,241.62,479.2,34
+SC,4998,40.66972222,-77.90916667,burningbush,2018,119,burningbush,exotic,241.62,479.2,34
+SC,4213,40.66972222,-77.90916667,northern spicebush,2018,123,northern spicebush,native,241.62,479.2,34
+SC,4210,40.66972222,-77.90916667,northern spicebush,2018,123,northern spicebush,native,241.62,479.2,34
+SC,4209,40.66972222,-77.90916667,privet,2018,106,privet,exotic,241.62,479.2,34
+SC,4903,40.66972222,-77.90916667,multiflora rose,2018,88,multiflora rose,exotic,241.62,479.2,34
+SC,4904,40.66972222,-77.90916667,multiflora rose,2018,106,multiflora rose,exotic,241.62,479.2,34
+SC,4205,40.66972222,-77.90916667,burningbush,2018,123,burningbush,exotic,241.62,479.2,34
+SC,3211,40.66972222,-77.90916667,blackhaw,2018,119,blackhaw,native,241.62,479.2,34
+SC,4219,40.66972222,-77.90916667,blackhaw,2018,115,blackhaw,native,241.62,479.2,34
+SC,3204,40.66972222,-77.90916667,Japanese barberry,2018,78,Japanese barberry,exotic,241.62,479.2,34
+SC,3217,40.66972222,-77.90916667,privet,2018,106,privet,exotic,241.62,479.2,34
+SC,3216,40.66972222,-77.90916667,mapleleaf viburnum,2018,119,mapleleaf viburnum,native,241.62,479.2,34
+SC,3214,40.66972222,-77.90916667,burningbush,2018,115,burningbush,exotic,241.62,479.2,34
+SC,newVIAC,40.66972222,-77.90916667,mapleleaf viburnum,2018,119,mapleleaf viburnum,native,241.62,479.2,34
+SC,3212,40.66972222,-77.90916667,privet,2018,106,privet,exotic,241.62,479.2,34
+SC,4901,40.66972222,-77.90916667,Amur honeysuckle,2018,106,Amur honeysuckle,exotic,241.62,479.2,34
+SC,3208,40.66972222,-77.90916667,mapleleaf viburnum,2018,123,mapleleaf viburnum,native,241.62,479.2,34
+SC,3206,40.66972222,-77.90916667,mapleleaf viburnum,2018,119,mapleleaf viburnum,native,241.62,479.2,34
+SC,4906,40.66972222,-77.90916667,multiflora rose,2018,53,multiflora rose,exotic,241.62,479.2,34
+SC,3205,40.66972222,-77.90916667,blackhaw,2018,119,blackhaw,native,241.62,479.2,34
+SC,3203,40.66972222,-77.90916667,mapleleaf viburnum,2018,119,mapleleaf viburnum,native,241.62,479.2,34
+SC,4907,40.66972222,-77.90916667,multiflora rose,2018,85,multiflora rose,exotic,241.62,479.2,34
+SC,4908,40.66972222,-77.90916667,multiflora rose,2018,57,multiflora rose,exotic,241.62,479.2,34
+SC,3202,40.66972222,-77.90916667,Amur honeysuckle,2018,106,Amur honeysuckle,exotic,241.62,479.2,34
+SC,4997,40.66972222,-77.90916667,northern spicebush,2018,123,northern spicebush,native,241.62,479.2,34
+SC,4221,40.66972222,-77.90916667,Japanese barberry,2018,78,Japanese barberry,exotic,241.62,479.2,34
+SC,4214,40.66972222,-77.90916667,privet,2018,106,privet,exotic,241.62,479.2,34
+SC,4211,40.66972222,-77.90916667,bush honeysuckle,2018,106,Morrow's honeysuckle,exotic,241.62,479.2,34
+SC,3222,40.66972222,-77.90916667,privet,2018,106,privet,exotic,241.62,479.2,34
+SC,4206,40.66972222,-77.90916667,mapleleaf viburnum,2018,115,mapleleaf viburnum,native,241.62,479.2,34
+SC,4223,40.66972222,-77.90916667,Japanese barberry,2018,78,Japanese barberry,exotic,241.62,479.2,34
+SC,3209,40.66972222,-77.90916667,blackhaw,2018,119,blackhaw,native,241.62,479.2,34
+SC,3210,40.66972222,-77.90916667,Japanese barberry,2018,88,Japanese barberry,exotic,241.62,479.2,34
+SC,3221,40.66972222,-77.90916667,privet,2018,106,privet,exotic,241.62,479.2,34
+SC,4204,40.66972222,-77.90916667,northern spicebush,2018,123,northern spicebush,native,241.62,479.2,34
+SC,4905,40.66972222,-77.90916667,multiflora rose,2018,53,multiflora rose,exotic,241.62,479.2,34
+SC,4222,40.66972222,-77.90916667,Amur honeysuckle,2018,101,Amur honeysuckle,exotic,241.62,479.2,34
+SC,3220,40.66972222,-77.90916667,blackhaw,2018,115,blackhaw,native,241.62,479.2,34
+SC,3213,40.66972222,-77.90916667,burningbush,2018,115,burningbush,exotic,241.62,479.2,34
+SC,4202,40.66972222,-77.90916667,northern spicebush,2018,123,northern spicebush,native,241.62,479.2,34
+SC,3223,40.66972222,-77.90916667,Japanese barberry,2018,78,Japanese barberry,exotic,241.62,479.2,34
